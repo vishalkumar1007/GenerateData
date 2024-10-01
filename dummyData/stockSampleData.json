@@ -1,0 +1,228 @@
+{
+    "id":"ola-electric-mobility-ltd",
+    "name": "Ola Electric Mobility",
+    "logoUrl": "https://assets-netstorage.groww.in/stock-assets/logos/GSTK532939.png",
+    "stockCost": "2.43",
+    "stockCostPerRate": "0.32 (1.21%)",
+    "performance": {
+      "todayLow": "117.25",
+      "todayHigh": "122.95",
+      "FTW_low": "99.3",
+      "FTW_high": "21.43",
+      "open": "121.03",
+      "close": "32.4",
+      "volume": "22,42,432",
+      "totalTradeValue": "23.54 Cr",
+      "upperCircuit": "123.65",
+      "lowerCircuit": "473.43"
+    },
+    "fundamentals": {
+      "marketCap": "52,043 Cr",
+      "ROE": "-32.43",
+      "PE_ratio": "9.54",
+      "EPS": "-32.4",
+      "PB_ratio": "8,.23",
+      "dividendYield": "8.25",
+      "Industry": "24.05",
+      "bookValue": "13.09",
+      "debtToEquity": "1.32",
+      "faceValue": "10.21"
+    },
+    "financial": {
+      "revenueGraph": {
+        "quarterly": {
+          "graph1": {
+            "rateInCr": "221",
+            "date": "jun'23",
+            "graphPercent": "45"
+          },
+          "graph2": {
+            "rateInCr": "1,032",
+            "date": "july'23",
+            "graphPercent": "65"
+          },
+          "graph3": {
+            "rateInCr": "-22",
+            "date": "aug'23",
+            "graphPercent": "59"
+          },
+          "graph4": {
+            "rateInCr": "-221",
+            "date": "sep'23",
+            "graphPercent": "73"
+          },
+          "graph5": {
+            "rateInCr": "3,431",
+            "date": "dec'23",
+            "graphPercent": "93"
+          }
+        },
+        "yearly": {
+          "graph1": {
+            "rateInCr": "221",
+            "date": "2018",
+            "graphPercent": "45"
+          },
+          "graph2": {
+            "rateInCr": "5,032",
+            "date": "2019",
+            "graphPercent": "65"
+          },
+          "graph3": {
+            "rateInCr": "-1,322",
+            "date": "2020",
+            "graphPercent": "-19"
+          },
+          "graph4": {
+            "rateInCr": "1,221",
+            "date": "2021",
+            "graphPercent": "73"
+          },
+          "graph5": {
+            "rateInCr": "7,431",
+            "date": "2022",
+            "graphPercent": "93"
+          }
+        }
+      },
+      "profitGraph": {
+        "quarterly": {
+          "graph1": {
+            "rateInCr": "-221",
+            "date": "jun'23",
+            "graphPercent": "55"
+          },
+          "graph2": {
+            "rateInCr": "-132",
+            "date": "july'23",
+            "graphPercent": "65"
+          },
+          "graph3": {
+            "rateInCr": "12",
+            "date": "aug'23",
+            "graphPercent": "10"
+          },
+          "graph4": {
+            "rateInCr": "-221",
+            "date": "sep'23",
+            "graphPercent": "-73"
+          },
+          "graph5": {
+            "rateInCr": "3,431",
+            "date": "dec'23",
+            "graphPercent": "93"
+          }
+        },
+        "yearly": {
+          "graph1": {
+            "rateInCr": "2,221",
+            "date": "2018",
+            "graphPercent": "45"
+          },
+          "graph2": {
+            "rateInCr": "-1,032",
+            "date": "2019",
+            "graphPercent": "-65"
+          },
+          "graph3": {
+            "rateInCr": "322",
+            "date": "2020",
+            "graphPercent": "19"
+          },
+          "graph4": {
+            "rateInCr": "-1,221",
+            "date": "2021",
+            "graphPercent": "-63"
+          },
+          "graph5": {
+            "rateInCr": "-1,431",
+            "date": "2022",
+            "graphPercent": "73"
+          }
+        }
+      },
+      "netWorthGraph": {
+        "quarterly": {
+          "graph1": {
+            "rateInCr": "12,221",
+            "date": "jun'23",
+            "graphPercent": "45"
+          },
+          "graph2": {
+            "rateInCr": "-41,032",
+            "date": "july'23",
+            "graphPercent": "-65"
+          },
+          "graph3": {
+            "rateInCr": "31,122",
+            "date": "aug'23",
+            "graphPercent": "59"
+          },
+          "graph4": {
+            "rateInCr": "-91,201",
+            "date": "sep'23",
+            "graphPercent": "-73"
+          },
+          "graph5": {
+            "rateInCr": "11,431",
+            "date": "dec'23",
+            "graphPercent": "93"
+          }
+        },
+        "yearly": {
+          "graph1": {
+            "rateInCr": "-21,221",
+            "date": "jun'23",
+            "graphPercent": "-19"
+          },
+          "graph2": {
+            "rateInCr": "41,032",
+            "date": "2019",
+            "graphPercent": "65"
+          },
+          "graph3": {
+            "rateInCr": "51,322",
+            "date": "2020",
+            "graphPercent": "-19"
+          },
+          "graph4": {
+            "rateInCr": "89,221",
+            "date": "2021",
+            "graphPercent": "73"
+          },
+          "graph5": {
+            "rateInCr": "1,02,431",
+            "date": "2022",
+            "graphPercent": "93"
+          }
+        }
+      }
+    },
+    "shareHolderPattern":{
+      "Day1":{
+          "date":"Jun'23",
+          "promotersPercent":"32",
+          "retailAndOtherPercent":"12",
+          "otherDomesticIndustryPercent":"42"
+      },
+      "Day2":{
+          "date":"Sep'23",
+          "promotersPercent":"19",
+          "retailAndOtherPercent":"76",
+          "otherDomesticIndustryPercent":"54"
+      },
+      "Day3":{
+          "date":"Dec'23",
+          "promotersPercent":"87",
+          "retailAndOtherPercent":"43",
+          "otherDomesticIndustryPercent":"98"
+      },
+      "Day4":{
+          "date":"Mar'24",
+          "promotersPercent":"76",
+          "retailAndOtherPercent":"33",
+          "otherDomesticIndustryPercent":"69"
+      }
+    }
+  }
+  

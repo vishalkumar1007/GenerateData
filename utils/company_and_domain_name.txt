@@ -1,0 +1,248 @@
+JPMorgan Chase : jpmorganchase.com
+Saudi Aramco : aramco.com
+Citigroup : citigroup.com
+Industrial and Commercial Bank of China : icbc.com.cn
+China Construction Bank : ccb.com
+Bank of America : bankofamerica.com
+Alphabet (Google) : abc.xyz
+Berkshire Hathaway : berkshirehathaway.com
+Microsoft : microsoft.com
+Apple : apple.com
+Toyota Motor : toyota.com
+Amazon : amazon.com
+Ping An Insurance : pingan.com
+Walmart : walmart.com
+ExxonMobil : exxonmobil.com
+Shell : shell.com
+Volkswagen : volkswagen.com
+Samsung Electronics : samsung.com
+Alibaba Group : alibaba.com
+Meta (Facebook) : meta.com / facebook.com
+TotalEnergies : totalenergies.com
+Nestlé : nestle.com
+Pfizer : pfizer.com
+Procter & Gamble : pg.com
+Tesla : tesla.com
+HSBC : hsbc.com
+Goldman Sachs : goldmansachs.com
+Banco Santander : santander.com
+BNP Paribas : bnpparibas.com
+Mitsubishi UFJ Financial : mufg.jp
+AIA Group : aia.com
+Allianz : allianz.com
+Sony : sony.com
+PepsiCo : pepsico.com
+Nike : nike.com
+Chevron : chevron.com
+IBM : ibm.com
+General Electric : ge.com
+Roche Holding : roche.com
+Oracle : oracle.com
+Unilever : unilever.com
+L'Oréal : loreal.com
+Cisco Systems : cisco.com
+Johnson & Johnson : jnj.com
+Boeing : boeing.com
+Abbott Laboratories : abbott.com
+Intel : intel.com
+Novartis : novartis.com
+Mercedes-Benz Group : mercedes-benz.com
+Siemens : siemens.com
+Reliance Industries : relianceindustries.com
+Tata Consultancy Services (TCS) : tcs.com
+Infosys : infosys.com
+HDFC Bank : hdfcbank.com
+ICICI Bank : icicibank.com
+State Bank of India (SBI) : sbi.co.in
+Bharti Airtel : airtel.in
+Hindustan Unilever Limited (HUL) : hul.co.in
+Wipro : wipro.com
+Asian Paints : asianpaints.com
+Larsen & Toubro (L&T) : larsentoubro.com
+Kotak Mahindra Bank : kotak.com
+Mahindra & Mahindra : mahindra.com
+ITC Limited : itcportal.com
+Adani Enterprises : adanienterprises.com
+Tata Steel : tatasteel.com
+HCL Technologies : hcltech.com
+Maruti Suzuki : marutisuzuki.com
+Power Grid Corporation : powergrid.in
+Bajaj Finance : bajajfinserv.in
+Hero MotoCorp : heromotocorp.com
+Oil and Natural Gas Corporation (ONGC) : ongcindia.com
+Tata Motors : tatamotors.com
+Coal India : coalindia.in
+Dr. Reddy's Laboratories : drreddys.com
+Sun Pharmaceuticals : sunpharma.com
+IndusInd Bank : indusind.com
+Axis Bank : axisbank.com
+HDFC Life Insurance : hdfclife.com
+Tech Mahindra : techmahindra.com
+UltraTech Cement : ultratechcement.com
+NTPC Limited : ntpc.co.in
+Bajaj Auto : bajajauto.com
+Tata Power : tatapower.com
+Britannia Industries : britannia.co.in
+Zee Entertainment : zeetelevision.com
+Divi's Laboratories : divislabs.com
+Havells India : havells.com
+Dabur India : dabur.com
+Grasim Industries : grasim.com
+Adani Ports and SEZ : adaniports.com
+Vedanta Limited : vedantalimited.com
+JSW Steel : jsw.in
+GAIL (India) : gailonline.com
+Titan Company : titancompany.in
+Eicher Motors : eichermotors.com
+Pidilite Industries : pidilite.com
+Shree Cement : shreecement.com
+Hindalco Industries : hindalco.com
+Nestlé India : nestle.in
+UPL Limited : upl-ltd.com
+Godrej Consumer Products : godrejcp.com
+Cipla : cipla.com
+Indian Oil Corporation (IOC) : iocl.com
+Bharat Petroleum (BPCL) : bharatpetroleum.in
+Bosch India : bosch.in
+Muthoot Finance : muthootfinance.com
+Page Industries : jockeyindia.com
+Siemens India : siemens.co.in
+ICICI Prudential Life : iciciprulife.com
+SRF Limited : srf.com
+Mphasis : mphasis.com
+SBI Life Insurance : sbilife.co.in
+Jubilant FoodWorks : jubilantfoodworks.com
+Max Financial Services : maxfinancialservices.com
+Tata Consumer Products : tataconsumer.com
+Punjab National Bank (PNB) : pnbindia.in
+Yes Bank : yesbank.in
+GMR Infrastructure : gmrgroup.in
+Lupin Pharmaceuticals : lupin.com
+Bajaj Electricals : bajajelectricals.com
+Godrej Properties : godrejproperties.com
+Apollo Hospitals : apollohospitals.com
+Balkrishna Industries : bkt-tires.com
+Crompton Greaves : crompton.co.in
+RBL Bank : rblbank.com
+Sundaram Finance : sundaramfinance.in
+Voltas : voltas.com
+Glenmark Pharmaceuticals : glenmarkpharma.com
+Ashok Leyland : ashokleyland.com
+Bank of Baroda : bankofbaroda.in
+Canara Bank : canarabank.com
+Union Bank of India : unionbankofindia.co.in
+Piramal Enterprises : piramal.com
+Exide Industries : exideindustries.com
+Mindtree : mindtree.com
+Zydus Cadila : zyduscadila.com
+LIC Housing Finance : lichousing.com
+IDBI Bank : idbi.com
+Indiabulls Housing Finance : indiabullshomeloans.com
+Fortis Healthcare : fortishealthcare.com
+Aurobindo Pharma : aurobindo.com
+Phoenix Mills : phoenixmills.com
+Adani Green Energy : adanigreenenergy.com
+Torrent Pharmaceuticals : torrentpharma.com
+Tata Chemicals : tatachemicals.com
+CESC Limited : cesc.co.in
+Biocon : biocon.com
+NBCC (India) : nbccindia.com
+Container Corporation of India : concorindia.com
+Apple Inc. : apple.com
+Microsoft Corporation : microsoft.com
+Amazon.com, Inc. : amazon.com
+Alphabet Inc. (Google) : abc.xyz
+Berkshire Hathaway Inc. : berkshirehathaway.com
+Tesla, Inc. : tesla.com
+Meta Platforms, Inc. (Facebook) : meta.com
+Johnson & Johnson : jnj.com
+Visa Inc. : visa.com
+Walmart Inc. : walmart.com
+Procter & Gamble Co. : pg.com
+UnitedHealth Group Incorporated : unitedhealthgroup.com
+NVIDIA Corporation : nvidia.com
+Exxon Mobil Corporation : exxonmobil.com
+Pfizer Inc. : pfizer.com
+Chevron Corporation : chevron.com
+AbbVie Inc. : abbvie.com
+Coca-Cola Company : coca-cola.com
+Walt Disney Company : thewaltdisneycompany.com
+Bank of America Corporation : bankofamerica.com
+Mastercard Incorporated : mastercard.com
+Intel Corporation : intel.com
+Verizon Communications Inc. : verizon.com
+Home Depot, Inc. : homedepot.com
+Netflix, Inc. : netflix.com
+PepsiCo, Inc. : pepsico.com
+Cisco Systems, Inc. : cisco.com
+Merck & Co., Inc. : merck.com
+Salesforce.com, Inc. : salesforce.com
+IBM Corporation : ibm.com
+Adobe Inc. : adobe.com
+Qualcomm Incorporated : qualcomm.com
+Starbucks Corporation : starbucks.com
+Boeing Company : boeing.com
+Amgen Inc. : amgen.com
+Texas Instruments Incorporated : ti.com
+3M Company : 3m.com
+Union Pacific Corporation : up.com
+Goldman Sachs Group, Inc. : goldmansachs.com
+Lockheed Martin Corporation : lockheedmartin.com
+General Electric Company : ge.com
+Bristol-Myers Squibb Company : bms.com
+Charter Communications, Inc. : charter.com
+American Tower Corporation : americantower.com
+Caterpillar Inc. : caterpillar.com
+BlackRock, Inc. : blackrock.com
+Northrop Grumman Corporation : northropgrumman.com
+Delta Air Lines, Inc. : delta.com
+T-Mobile US, Inc. : t-mobile.com
+Eli Lilly and Company : lilly.com
+Kraft Heinz Company : kraftheinzcompany.com
+Costco Wholesale Corporation : costco.com
+Lowe's Companies, Inc. : lowes.com
+TJX Companies, Inc. : tjx.com
+General Motors Company : gm.com
+Biogen Inc. : biogen.com
+American Express Company : americanexpress.com
+Booking Holdings Inc. : bookingholdings.com
+Activision Blizzard, Inc. : activisionblizzard.com
+Illumina, Inc. : illumina.com
+Mondelez International, Inc. : mondelezinternational.com
+Booking Holdings Inc. : booking.com
+Novartis AG : novartis.com
+FedEx Corporation : fedex.com
+Salesforce.com, Inc. : salesforce.com
+Lululemon Athletica Inc. : lululemon.com
+Pinterest, Inc. : pinterest.com
+Twilio Inc. : twilio.com
+Square, Inc. (Block, Inc.) : squareup.com
+Snap Inc. : snap.com
+Yelp Inc. : yelp.com
+Wayfair Inc. : wayfair.com
+Workday, Inc. : workday.com
+Zillow Group, Inc. : zillow.com
+DoorDash, Inc. : doordash.com
+Etsy, Inc. : etsy.com
+Dropbox, Inc. : dropbox.com
+Robinhood Markets, Inc. : robinhood.com
+NIO Inc. : nio.com
+Palantir Technologies Inc. : palantir.com
+Beyond Meat, Inc. : beyondmeat.com
+Snap-on Incorporated : snapon.com
+Veeva Systems Inc. : veeva.com
+Fiverr International Ltd. : fiverr.com
+Nutanix, Inc. : nutanix.com
+RingCentral, Inc. : ringcentral.com
+Shopify Inc. : shopify.com
+Okta, Inc. : okta.com
+Sea Limited : seagroup.com
+CrowdStrike Holdings, Inc. : crowdstrike.com
+Teladoc Health, Inc. : teladoc.com
+Pinterest, Inc. : pinterest.com
+C3.ai, Inc. : c3.ai
+Cloudflare, Inc. : cloudflare.com
+Datadog, Inc. : datadoghq.com
+Roku, Inc. : roku.com
+Snowflake Inc. : snowflake.com
+Databricks, Inc. : databricks.com

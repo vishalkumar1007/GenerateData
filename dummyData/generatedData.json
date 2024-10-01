@@ -1,0 +1,229 @@
+[
+    {
+        "id": "id-name-1",
+        "name": "company-name",
+        "logoUrl": "logo-url",
+        "stockCost": "1582.56",
+        "stockCostPerRate": "7.16 (4.43%)",
+        "performance": {
+            "todayLow": "166.92",
+            "todayHigh": "1716.65",
+            "FTW_low": "58.27",
+            "FTW_high": "15.92",
+            "open": "1450.7",
+            "close": "1372.3",
+            "volume": "30,35,94",
+            "totalTradeValue": "194.92 Cr",
+            "upperCircuit": "623.4",
+            "lowerCircuit": "503.17"
+        },
+        "fundamentals": {
+            "marketCap": "90547 Cr",
+            "ROE": "-57.71",
+            "PE_ratio": "-91.86",
+            "EPS": "19.89",
+            "PB_ratio": "71.73",
+            "dividendYield": "66.93",
+            "Industry": "60.83",
+            "bookValue": "91.87",
+            "debtToEquity": "82.29",
+            "faceValue": "40.61"
+        },
+        "financial": {
+            "revenueGraph": {
+                "quarterly": {
+                    "graph1": {
+                        "rateInCr": "3106",
+                        "date": "January'20",
+                        "graphPercent": "2"
+                    },
+                    "graph2": {
+                        "rateInCr": "1749",
+                        "date": "August'20",
+                        "graphPercent": "5"
+                    },
+                    "graph3": {
+                        "rateInCr": "3894",
+                        "date": "February'22",
+                        "graphPercent": "66"
+                    },
+                    "graph4": {
+                        "rateInCr": "9239",
+                        "date": "December'20",
+                        "graphPercent": "54"
+                    },
+                    "graph5": {
+                        "rateInCr": "-6",
+                        "date": "July'24",
+                        "graphPercent": "9"
+                    }
+                },
+                "yearly": {
+                    "graph1": {
+                        "rateInCr": "4718",
+                        "date": "2019",
+                        "graphPercent": "53"
+                    },
+                    "graph2": {
+                        "rateInCr": "-1653",
+                        "date": "2022",
+                        "graphPercent": "1"
+                    },
+                    "graph3": {
+                        "rateInCr": "9500",
+                        "date": "2019",
+                        "graphPercent": "85"
+                    },
+                    "graph4": {
+                        "rateInCr": "8275",
+                        "date": "2019",
+                        "graphPercent": "98"
+                    },
+                    "graph5": {
+                        "rateInCr": "4179",
+                        "date": "2024",
+                        "graphPercent": "16"
+                    }
+                }
+            },
+            "profitGraph": {
+                "quarterly": {
+                    "graph1": {
+                        "rateInCr": "-7618",
+                        "date": "April'19",
+                        "graphPercent": "89"
+                    },
+                    "graph2": {
+                        "rateInCr": "-5942",
+                        "date": "July'23",
+                        "graphPercent": "72"
+                    },
+                    "graph3": {
+                        "rateInCr": "6932",
+                        "date": "August'24",
+                        "graphPercent": "86"
+                    },
+                    "graph4": {
+                        "rateInCr": "-4482",
+                        "date": "October'23",
+                        "graphPercent": "47"
+                    },
+                    "graph5": {
+                        "rateInCr": "-4314",
+                        "date": "November'21",
+                        "graphPercent": "66"
+                    }
+                },
+                "yearly": {
+                    "graph1": {
+                        "rateInCr": "-6418",
+                        "date": "2022",
+                        "graphPercent": "54"
+                    },
+                    "graph2": {
+                        "rateInCr": "-595",
+                        "date": "2021",
+                        "graphPercent": "64"
+                    },
+                    "graph3": {
+                        "rateInCr": "4261",
+                        "date": "2024",
+                        "graphPercent": "83"
+                    },
+                    "graph4": {
+                        "rateInCr": "-5200",
+                        "date": "2024",
+                        "graphPercent": "15"
+                    },
+                    "graph5": {
+                        "rateInCr": "-4741",
+                        "date": "2022",
+                        "graphPercent": "43"
+                    }
+                }
+            },
+            "netWorthGraph": {
+                "quarterly": {
+                    "graph1": {
+                        "rateInCr": "7557",
+                        "date": "February'20",
+                        "graphPercent": "88"
+                    },
+                    "graph2": {
+                        "rateInCr": "871",
+                        "date": "July'24",
+                        "graphPercent": "31"
+                    },
+                    "graph3": {
+                        "rateInCr": "3852",
+                        "date": "September'22",
+                        "graphPercent": "17"
+                    },
+                    "graph4": {
+                        "rateInCr": "-3542",
+                        "date": "November'24",
+                        "graphPercent": "86"
+                    },
+                    "graph5": {
+                        "rateInCr": "3837",
+                        "date": "December'24",
+                        "graphPercent": "57"
+                    }
+                },
+                "yearly": {
+                    "graph1": {
+                        "rateInCr": "6428",
+                        "date": "2024",
+                        "graphPercent": "56"
+                    },
+                    "graph2": {
+                        "rateInCr": "-3035",
+                        "date": "2021",
+                        "graphPercent": "73"
+                    },
+                    "graph3": {
+                        "rateInCr": "-6081",
+                        "date": "2021",
+                        "graphPercent": "53"
+                    },
+                    "graph4": {
+                        "rateInCr": "-8547",
+                        "date": "2024",
+                        "graphPercent": "99"
+                    },
+                    "graph5": {
+                        "rateInCr": "8280",
+                        "date": "2019",
+                        "graphPercent": "43"
+                    }
+                }
+            }
+        },
+        "shareHolderPattern": {
+            "Day1": {
+                "date": "October'23",
+                "promotersPercent": "33",
+                "retailAndOtherPercent": "64",
+                "otherDomesticIndustryPercent": "31"
+            },
+            "Day2": {
+                "date": "August'24",
+                "promotersPercent": "95",
+                "retailAndOtherPercent": "15",
+                "otherDomesticIndustryPercent": "72"
+            },
+            "Day3": {
+                "date": "May'23",
+                "promotersPercent": "3",
+                "retailAndOtherPercent": "79",
+                "otherDomesticIndustryPercent": "73"
+            },
+            "Day4": {
+                "date": "April'24",
+                "promotersPercent": "40",
+                "retailAndOtherPercent": "14",
+                "otherDomesticIndustryPercent": "14"
+            }
+        }
+    }
+]
