@@ -1,7 +1,8 @@
 const { faker } = require('@faker-js/faker');
 const fs = require('fs');
 const path = require('path');
-const companyNameLogo = require('../utils/companyNameLogo.json');
+// const companyNameLogo = require('../utils/companyNameLogo.json');
+const AllStockDataHead = require('../utils/AllStockDataHead.json');
 
 const stockDataController = (req, res) => {
     try {
@@ -17,17 +18,14 @@ const stockDataController = (req, res) => {
         
         const dataArr = [];
         
-        for (let i = 0; i < companyNameLogo.length; i++) {
-            const name = companyNameLogo[i].companyName;
-            const stock_id = `${name.replaceAll(" ","-")}-ltd`;
-            const logoUrl = companyNameLogo[i].logoUrl;
+        for (let i = 0; i < AllStockDataHead.length; i++) {
 
             const jsonData = {
-                stock_id,
-                name,
-                logoUrl,
-                stockCost: `${faker.number.float({ min: 10, max: 2000, fractionDigits: 2 })}`,
-                stockCostPerRate: `${faker.number.float({ min: 0, max: 10, fractionDigits: 2 })} (${faker.number.float({ min: 0, max: 10, fractionDigits: 2 })}%)`,
+                stock_id :AllStockDataHead[i].stock_id,
+                name :AllStockDataHead[i].name,
+                logoUrl :AllStockDataHead[i].logoUrl,
+                stockCost :AllStockDataHead[i].stockCost,
+                stockCostPerRate :AllStockDataHead[i].stockCostPerRate,
                 performance: {
                     todayLow: `${faker.number.float({ min: 10, max: 300, fractionDigits: 2 })}`,
                     todayHigh: `${faker.number.float({ min: 300, max: 2000, fractionDigits: 2 })}`,
@@ -260,8 +258,8 @@ const stockDataController = (req, res) => {
                 console.log('error in stockData generate while creating file', err);
                 res.status(500).json({ msg: "error while save data in file" });
             } else {
-                console.log(`${companyNameLogo.length} stockData generate and save`);
-                res.status(200).json({ msg: `${companyNameLogo.length} stock data generate successfully and save in file`, fileLocation: "utils/stockData.json" });
+                console.log(`${AllStockDataHead.length} stockData generate and save`);
+                res.status(200).json({ msg: `${AllStockDataHead.length} stock data generate successfully and save in file`, fileLocation: "utils/stockData.json" });
             }
         })
         

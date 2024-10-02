@@ -1,0 +1,1724 @@
+[
+  {
+    "stock_id": "JPMorgan-Chase-ltd",
+    "name": "JPMorgan Chase",
+    "logoUrl": "https://img.logo.dev/jpmorganchase.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "834.92",
+    "stockCostPerRate": "0.82 (4.38%)"
+  },
+  {
+    "stock_id": "Saudi-Aramco-ltd",
+    "name": "Saudi Aramco",
+    "logoUrl": "https://img.logo.dev/aramco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1489.86",
+    "stockCostPerRate": "3.58 (9.63%)"
+  },
+  {
+    "stock_id": "Citigroup-ltd",
+    "name": "Citigroup",
+    "logoUrl": "https://img.logo.dev/citigroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1114.16",
+    "stockCostPerRate": "5.96 (4.04%)"
+  },
+  {
+    "stock_id": "Industrial-and-Commercial-Bank-of-China-ltd",
+    "name": "Industrial and Commercial Bank of China",
+    "logoUrl": "https://img.logo.dev/icbc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "497.09",
+    "stockCostPerRate": "2.54 (6.9%)"
+  },
+  {
+    "stock_id": "China-Construction-Bank-ltd",
+    "name": "China Construction Bank",
+    "logoUrl": "https://img.logo.dev/ccb.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "117.29",
+    "stockCostPerRate": "4.98 (9.98%)"
+  },
+  {
+    "stock_id": "Bank-of-America-ltd",
+    "name": "Bank of America",
+    "logoUrl": "https://img.logo.dev/bankofamerica.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "292.74",
+    "stockCostPerRate": "0.61 (3.25%)"
+  },
+  {
+    "stock_id": "Alphabet-Google-ltd",
+    "name": "Alphabet Google",
+    "logoUrl": "https://img.logo.dev/abc.xyz?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "413.29",
+    "stockCostPerRate": "5.26 (8.72%)"
+  },
+  {
+    "stock_id": "Berkshire-Hathaway-ltd",
+    "name": "Berkshire Hathaway",
+    "logoUrl": "https://img.logo.dev/berkshirehathaway.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1071.79",
+    "stockCostPerRate": "3.57 (6.4%)"
+  },
+  {
+    "stock_id": "Microsoft-ltd",
+    "name": "Microsoft",
+    "logoUrl": "https://img.logo.dev/microsoft.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1684.56",
+    "stockCostPerRate": "7.09 (4.12%)"
+  },
+  {
+    "stock_id": "Apple-ltd",
+    "name": "Apple",
+    "logoUrl": "https://img.logo.dev/apple.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1755.1",
+    "stockCostPerRate": "6.02 (6.87%)"
+  },
+  {
+    "stock_id": "Toyota-Motor-ltd",
+    "name": "Toyota Motor",
+    "logoUrl": "https://img.logo.dev/toyota.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "434.01",
+    "stockCostPerRate": "7.52 (6.81%)"
+  },
+  {
+    "stock_id": "Amazon-ltd",
+    "name": "Amazon",
+    "logoUrl": "https://img.logo.dev/amazon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1502.72",
+    "stockCostPerRate": "3.77 (7.02%)"
+  },
+  {
+    "stock_id": "Ping-An-Insurance-ltd",
+    "name": "Ping An Insurance",
+    "logoUrl": "https://img.logo.dev/pingan.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "651.53",
+    "stockCostPerRate": "3.48 (2.69%)"
+  },
+  {
+    "stock_id": "Walmart-ltd",
+    "name": "Walmart",
+    "logoUrl": "https://img.logo.dev/walmart.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "515.12",
+    "stockCostPerRate": "0.16 (4.81%)"
+  },
+  {
+    "stock_id": "ExxonMobil-ltd",
+    "name": "ExxonMobil",
+    "logoUrl": "https://img.logo.dev/exxonmobil.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1744.75",
+    "stockCostPerRate": "8.23 (9.06%)"
+  },
+  {
+    "stock_id": "Shell-ltd",
+    "name": "Shell",
+    "logoUrl": "https://img.logo.dev/shell.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1193.21",
+    "stockCostPerRate": "0.01 (4.91%)"
+  },
+  {
+    "stock_id": "Volkswagen-ltd",
+    "name": "Volkswagen",
+    "logoUrl": "https://img.logo.dev/volkswagen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "91.77",
+    "stockCostPerRate": "1.5 (4.45%)"
+  },
+  {
+    "stock_id": "Samsung-Electronics-ltd",
+    "name": "Samsung Electronics",
+    "logoUrl": "https://img.logo.dev/samsung.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1283.62",
+    "stockCostPerRate": "8.86 (1.88%)"
+  },
+  {
+    "stock_id": "Alibaba-Group-ltd",
+    "name": "Alibaba Group",
+    "logoUrl": "https://img.logo.dev/alibaba.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "453.52",
+    "stockCostPerRate": "3.59 (3.27%)"
+  },
+  {
+    "stock_id": "Meta-(Facebook)-ltd",
+    "name": "Meta (Facebook)",
+    "logoUrl": "https://img.logo.dev/meta.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1606.94",
+    "stockCostPerRate": "8.64 (2%)"
+  },
+  {
+    "stock_id": "TotalEnergies-ltd",
+    "name": "TotalEnergies",
+    "logoUrl": "https://img.logo.dev/totalenergies.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "784.86",
+    "stockCostPerRate": "2.1 (0.69%)"
+  },
+  {
+    "stock_id": "Nestle-ltd",
+    "name": "Nestle",
+    "logoUrl": "https://img.logo.dev/nestle.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1575.22",
+    "stockCostPerRate": "5.19 (5.59%)"
+  },
+  {
+    "stock_id": "Pfizer-ltd",
+    "name": "Pfizer",
+    "logoUrl": "https://img.logo.dev/pfizer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1603.7",
+    "stockCostPerRate": "1.58 (5.99%)"
+  },
+  {
+    "stock_id": "Procter-and-Gamble-ltd",
+    "name": "Procter and Gamble",
+    "logoUrl": "https://img.logo.dev/pg.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "243.77",
+    "stockCostPerRate": "4.94 (1.47%)"
+  },
+  {
+    "stock_id": "Tesla-ltd",
+    "name": "Tesla",
+    "logoUrl": "https://img.logo.dev/tesla.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "266.57",
+    "stockCostPerRate": "2.28 (9.79%)"
+  },
+  {
+    "stock_id": "HSBC-ltd",
+    "name": "HSBC",
+    "logoUrl": "https://img.logo.dev/hsbc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1101.35",
+    "stockCostPerRate": "3.65 (8.36%)"
+  },
+  {
+    "stock_id": "Goldman-Sachs-ltd",
+    "name": "Goldman Sachs",
+    "logoUrl": "https://img.logo.dev/goldmansachs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1977.81",
+    "stockCostPerRate": "8.3 (0.59%)"
+  },
+  {
+    "stock_id": "Banco-Santander-ltd",
+    "name": "Banco Santander",
+    "logoUrl": "https://img.logo.dev/santander.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1696.79",
+    "stockCostPerRate": "3.42 (0.97%)"
+  },
+  {
+    "stock_id": "BNP-Paribas-ltd",
+    "name": "BNP Paribas",
+    "logoUrl": "https://img.logo.dev/bnpparibas.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "989.57",
+    "stockCostPerRate": "5.85 (6.86%)"
+  },
+  {
+    "stock_id": "Mitsubishi-UFJ-Financial-ltd",
+    "name": "Mitsubishi UFJ Financial",
+    "logoUrl": "https://img.logo.dev/mufg.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1754.78",
+    "stockCostPerRate": "5.64 (8.67%)"
+  },
+  {
+    "stock_id": "AIA-Group-ltd",
+    "name": "AIA Group",
+    "logoUrl": "https://img.logo.dev/aia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "870.7",
+    "stockCostPerRate": "0.76 (4.21%)"
+  },
+  {
+    "stock_id": "Allianz-ltd",
+    "name": "Allianz",
+    "logoUrl": "https://img.logo.dev/allianz.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1569.05",
+    "stockCostPerRate": "7.01 (3.34%)"
+  },
+  {
+    "stock_id": "Sony-ltd",
+    "name": "Sony",
+    "logoUrl": "https://img.logo.dev/sony.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "116.75",
+    "stockCostPerRate": "8.25 (9.26%)"
+  },
+  {
+    "stock_id": "PepsiCo-ltd",
+    "name": "PepsiCo",
+    "logoUrl": "https://img.logo.dev/pepsico.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "445.1",
+    "stockCostPerRate": "0.84 (8.27%)"
+  },
+  {
+    "stock_id": "Nike-ltd",
+    "name": "Nike",
+    "logoUrl": "https://img.logo.dev/nike.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1888",
+    "stockCostPerRate": "9.39 (6.78%)"
+  },
+  {
+    "stock_id": "Chevron-ltd",
+    "name": "Chevron",
+    "logoUrl": "https://img.logo.dev/chevron.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "139.75",
+    "stockCostPerRate": "6.39 (5.75%)"
+  },
+  {
+    "stock_id": "IBM-ltd",
+    "name": "IBM",
+    "logoUrl": "https://img.logo.dev/ibm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1029.92",
+    "stockCostPerRate": "4.17 (9.24%)"
+  },
+  {
+    "stock_id": "General-Electric-ltd",
+    "name": "General Electric",
+    "logoUrl": "https://img.logo.dev/ge.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "338.37",
+    "stockCostPerRate": "9.96 (8.12%)"
+  },
+  {
+    "stock_id": "Roche-Holding-ltd",
+    "name": "Roche Holding",
+    "logoUrl": "https://img.logo.dev/roche.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "73.69",
+    "stockCostPerRate": "1.02 (5.22%)"
+  },
+  {
+    "stock_id": "Oracle-ltd",
+    "name": "Oracle",
+    "logoUrl": "https://img.logo.dev/oracle.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "806.37",
+    "stockCostPerRate": "7.1 (8.84%)"
+  },
+  {
+    "stock_id": "Unilever-ltd",
+    "name": "Unilever",
+    "logoUrl": "https://img.logo.dev/unilever.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1196.4",
+    "stockCostPerRate": "6.62 (1.62%)"
+  },
+  {
+    "stock_id": "Loreal-ltd",
+    "name": "Loreal",
+    "logoUrl": "https://img.logo.dev/loreal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1501.82",
+    "stockCostPerRate": "0.78 (2.59%)"
+  },
+  {
+    "stock_id": "Cisco-Systems-ltd",
+    "name": "Cisco Systems",
+    "logoUrl": "https://img.logo.dev/cisco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1711.56",
+    "stockCostPerRate": "7.14 (1.9%)"
+  },
+  {
+    "stock_id": "Johnson-and-Johnson-ltd",
+    "name": "Johnson and Johnson",
+    "logoUrl": "https://img.logo.dev/jnj.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1946.33",
+    "stockCostPerRate": "8.41 (6.78%)"
+  },
+  {
+    "stock_id": "Boeing-ltd",
+    "name": "Boeing",
+    "logoUrl": "https://img.logo.dev/boeing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "408.11",
+    "stockCostPerRate": "9.72 (9.41%)"
+  },
+  {
+    "stock_id": "Abbott-Laboratories-ltd",
+    "name": "Abbott Laboratories",
+    "logoUrl": "https://img.logo.dev/abbott.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1430.89",
+    "stockCostPerRate": "0.12 (4.47%)"
+  },
+  {
+    "stock_id": "Intel-ltd",
+    "name": "Intel",
+    "logoUrl": "https://img.logo.dev/intel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1978.38",
+    "stockCostPerRate": "2.89 (9.31%)"
+  },
+  {
+    "stock_id": "Novartis-ltd",
+    "name": "Novartis",
+    "logoUrl": "https://img.logo.dev/novartis.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "21.67",
+    "stockCostPerRate": "6.17 (8.79%)"
+  },
+  {
+    "stock_id": "Mercedes-Benz-Group-ltd",
+    "name": "Mercedes-Benz Group",
+    "logoUrl": "https://img.logo.dev/mercedes-benz.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1190.36",
+    "stockCostPerRate": "0.69 (5.18%)"
+  },
+  {
+    "stock_id": "Siemens-ltd",
+    "name": "Siemens",
+    "logoUrl": "https://img.logo.dev/siemens.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1425.88",
+    "stockCostPerRate": "5.17 (2.72%)"
+  },
+  {
+    "stock_id": "Reliance-Industries-ltd",
+    "name": "Reliance Industries",
+    "logoUrl": "https://img.logo.dev/relianceindustries.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1192.36",
+    "stockCostPerRate": "7.82 (5.39%)"
+  },
+  {
+    "stock_id": "Tata-Consultancy-Services-(TCS)-ltd",
+    "name": "Tata Consultancy Services (TCS)",
+    "logoUrl": "https://img.logo.dev/tcs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1793.94",
+    "stockCostPerRate": "1 (9.37%)"
+  },
+  {
+    "stock_id": "Infosys-ltd",
+    "name": "Infosys",
+    "logoUrl": "https://img.logo.dev/infosys.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "342.36",
+    "stockCostPerRate": "8.57 (0.76%)"
+  },
+  {
+    "stock_id": "HDFC-Bank-ltd",
+    "name": "HDFC Bank",
+    "logoUrl": "https://img.logo.dev/hdfcbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "438.3",
+    "stockCostPerRate": "3.97 (1.52%)"
+  },
+  {
+    "stock_id": "ICICI-Bank-ltd",
+    "name": "ICICI Bank",
+    "logoUrl": "https://img.logo.dev/icicibank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "251.4",
+    "stockCostPerRate": "6.72 (4.49%)"
+  },
+  {
+    "stock_id": "State-Bank-of-India-SBI-ltd",
+    "name": "State Bank of India SBI",
+    "logoUrl": "https://img.logo.dev/sbi.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "598.59",
+    "stockCostPerRate": "7.37 (2.21%)"
+  },
+  {
+    "stock_id": "Bharti-Airtel-ltd",
+    "name": "Bharti Airtel",
+    "logoUrl": "https://img.logo.dev/airtel.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1787.1",
+    "stockCostPerRate": "9.59 (1.09%)"
+  },
+  {
+    "stock_id": "Hindustan-Unilever-Limited-HUL-ltd",
+    "name": "Hindustan Unilever Limited HUL",
+    "logoUrl": "https://img.logo.dev/hul.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1569.39",
+    "stockCostPerRate": "1.92 (6.16%)"
+  },
+  {
+    "stock_id": "Wipro-ltd",
+    "name": "Wipro",
+    "logoUrl": "https://img.logo.dev/wipro.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "952.51",
+    "stockCostPerRate": "5.29 (9.75%)"
+  },
+  {
+    "stock_id": "Asian-Paints-ltd",
+    "name": "Asian Paints",
+    "logoUrl": "https://img.logo.dev/asianpaints.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "410.04",
+    "stockCostPerRate": "2.85 (2.85%)"
+  },
+  {
+    "stock_id": "Larsen-and-Toubro-ltd",
+    "name": "Larsen and Toubro",
+    "logoUrl": "https://img.logo.dev/larsentoubro.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "385.25",
+    "stockCostPerRate": "5.66 (3.88%)"
+  },
+  {
+    "stock_id": "Kotak-Mahindra-Bank-ltd",
+    "name": "Kotak Mahindra Bank",
+    "logoUrl": "https://img.logo.dev/kotak.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "189.81",
+    "stockCostPerRate": "4.69 (5.89%)"
+  },
+  {
+    "stock_id": "Mahindra-and-Mahindra-ltd",
+    "name": "Mahindra and Mahindra",
+    "logoUrl": "https://img.logo.dev/mahindra.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "124.25",
+    "stockCostPerRate": "9.02 (3.3%)"
+  },
+  {
+    "stock_id": "ITC-Limited-ltd",
+    "name": "ITC Limited",
+    "logoUrl": "https://img.logo.dev/itcportal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "987.54",
+    "stockCostPerRate": "8.77 (3.71%)"
+  },
+  {
+    "stock_id": "Adani-Enterprises-ltd",
+    "name": "Adani Enterprises",
+    "logoUrl": "https://img.logo.dev/adanienterprises.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1392.88",
+    "stockCostPerRate": "5.02 (7.59%)"
+  },
+  {
+    "stock_id": "Tata-Steel-ltd",
+    "name": "Tata Steel",
+    "logoUrl": "https://img.logo.dev/tatasteel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "804.84",
+    "stockCostPerRate": "4.05 (7.94%)"
+  },
+  {
+    "stock_id": "HCL-Technologies-ltd",
+    "name": "HCL Technologies",
+    "logoUrl": "https://img.logo.dev/hcltech.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "580.12",
+    "stockCostPerRate": "9.5 (6.69%)"
+  },
+  {
+    "stock_id": "Maruti-Suzuki-ltd",
+    "name": "Maruti Suzuki",
+    "logoUrl": "https://img.logo.dev/marutisuzuki.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1872.86",
+    "stockCostPerRate": "9.81 (9.75%)"
+  },
+  {
+    "stock_id": "Power-Grid-Corporation-ltd",
+    "name": "Power Grid Corporation",
+    "logoUrl": "https://img.logo.dev/powergrid.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1166.16",
+    "stockCostPerRate": "3.56 (4.77%)"
+  },
+  {
+    "stock_id": "Bajaj-Finance-ltd",
+    "name": "Bajaj Finance",
+    "logoUrl": "https://img.logo.dev/bajajfinserv.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1650.71",
+    "stockCostPerRate": "4.27 (4.48%)"
+  },
+  {
+    "stock_id": "Hero-MotoCorp-ltd",
+    "name": "Hero MotoCorp",
+    "logoUrl": "https://img.logo.dev/heromotocorp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1293.4",
+    "stockCostPerRate": "9.1 (9.01%)"
+  },
+  {
+    "stock_id": "Oil-and-Natural-Gas-Corporation-ltd",
+    "name": "Oil and Natural Gas Corporation",
+    "logoUrl": "https://img.logo.dev/ongcindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1849.61",
+    "stockCostPerRate": "2.92 (3.08%)"
+  },
+  {
+    "stock_id": "Tata-Motors-ltd",
+    "name": "Tata Motors",
+    "logoUrl": "https://img.logo.dev/tatamotors.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1934",
+    "stockCostPerRate": "4.97 (8.24%)"
+  },
+  {
+    "stock_id": "Coal-India-ltd",
+    "name": "Coal India",
+    "logoUrl": "https://img.logo.dev/coalindia.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1411.01",
+    "stockCostPerRate": "3.03 (2.35%)"
+  },
+  {
+    "stock_id": "Dr-Reddys-Laboratories-ltd",
+    "name": "Dr Reddys Laboratories",
+    "logoUrl": "https://img.logo.dev/drreddys.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "959.39",
+    "stockCostPerRate": "5.32 (3.65%)"
+  },
+  {
+    "stock_id": "Sun-Pharmaceuticals-ltd",
+    "name": "Sun Pharmaceuticals",
+    "logoUrl": "https://img.logo.dev/sunpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "419.33",
+    "stockCostPerRate": "9.56 (7.03%)"
+  },
+  {
+    "stock_id": "IndusInd-Bank-ltd",
+    "name": "IndusInd Bank",
+    "logoUrl": "https://img.logo.dev/indusind.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1108.74",
+    "stockCostPerRate": "4.26 (0.58%)"
+  },
+  {
+    "stock_id": "Axis-Bank-ltd",
+    "name": "Axis Bank",
+    "logoUrl": "https://img.logo.dev/axisbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1614.21",
+    "stockCostPerRate": "2.44 (5.9%)"
+  },
+  {
+    "stock_id": "HDFC-Life-Insurance-ltd",
+    "name": "HDFC Life Insurance",
+    "logoUrl": "https://img.logo.dev/hdfclife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1574.14",
+    "stockCostPerRate": "0.22 (2.27%)"
+  },
+  {
+    "stock_id": "Tech-Mahindra-ltd",
+    "name": "Tech Mahindra",
+    "logoUrl": "https://img.logo.dev/techmahindra.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "175.24",
+    "stockCostPerRate": "6.58 (7.87%)"
+  },
+  {
+    "stock_id": "UltraTech-Cement-ltd",
+    "name": "UltraTech Cement",
+    "logoUrl": "https://img.logo.dev/ultratechcement.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1141.23",
+    "stockCostPerRate": "9 (8.56%)"
+  },
+  {
+    "stock_id": "NTPC-Limited-ltd",
+    "name": "NTPC Limited",
+    "logoUrl": "https://img.logo.dev/ntpc.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1171.16",
+    "stockCostPerRate": "9.12 (4.49%)"
+  },
+  {
+    "stock_id": "Bajaj-Auto-ltd",
+    "name": "Bajaj Auto",
+    "logoUrl": "https://img.logo.dev/bajajauto.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "213.01",
+    "stockCostPerRate": "7.17 (4.48%)"
+  },
+  {
+    "stock_id": "Tata-Power-ltd",
+    "name": "Tata Power",
+    "logoUrl": "https://img.logo.dev/tatapower.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "538.54",
+    "stockCostPerRate": "6.18 (6.34%)"
+  },
+  {
+    "stock_id": "Britannia-Industries-ltd",
+    "name": "Britannia Industries",
+    "logoUrl": "https://img.logo.dev/britannia.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "645.76",
+    "stockCostPerRate": "4.82 (8.32%)"
+  },
+  {
+    "stock_id": "Zee-Entertainment-ltd",
+    "name": "Zee Entertainment",
+    "logoUrl": "https://img.logo.dev/zeetelevision.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "966.19",
+    "stockCostPerRate": "3.98 (7.76%)"
+  },
+  {
+    "stock_id": "Divi-Laboratories-ltd",
+    "name": "Divi Laboratories",
+    "logoUrl": "https://img.logo.dev/divislabs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "200.44",
+    "stockCostPerRate": "9.49 (4.15%)"
+  },
+  {
+    "stock_id": "Havells-India-ltd",
+    "name": "Havells India",
+    "logoUrl": "https://img.logo.dev/havells.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "442.98",
+    "stockCostPerRate": "7.04 (2.15%)"
+  },
+  {
+    "stock_id": "Dabur-India-ltd",
+    "name": "Dabur India",
+    "logoUrl": "https://img.logo.dev/dabur.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1208.28",
+    "stockCostPerRate": "1.31 (7.19%)"
+  },
+  {
+    "stock_id": "Grasim-Industries-ltd",
+    "name": "Grasim Industries",
+    "logoUrl": "https://img.logo.dev/grasim.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1338.34",
+    "stockCostPerRate": "8.29 (8.01%)"
+  },
+  {
+    "stock_id": "Adani-Ports-and-SEZ-ltd",
+    "name": "Adani Ports and SEZ",
+    "logoUrl": "https://img.logo.dev/adaniports.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "717.52",
+    "stockCostPerRate": "8.01 (9.31%)"
+  },
+  {
+    "stock_id": "Vedanta-Limited-ltd",
+    "name": "Vedanta Limited",
+    "logoUrl": "https://img.logo.dev/vedantalimited.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "255.39",
+    "stockCostPerRate": "6.84 (4.68%)"
+  },
+  {
+    "stock_id": "JSW-Steel-ltd",
+    "name": "JSW Steel",
+    "logoUrl": "https://img.logo.dev/jsw.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1605.84",
+    "stockCostPerRate": "5.45 (1.32%)"
+  },
+  {
+    "stock_id": "GAIL-India-ltd",
+    "name": "GAIL India",
+    "logoUrl": "https://img.logo.dev/gailonline.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1325.99",
+    "stockCostPerRate": "1.76 (1.03%)"
+  },
+  {
+    "stock_id": "Titan-name-ltd",
+    "name": "Titan name",
+    "logoUrl": "https://img.logo.dev/titanname.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "592.18",
+    "stockCostPerRate": "7.75 (0.29%)"
+  },
+  {
+    "stock_id": "Eicher-Motors-ltd",
+    "name": "Eicher Motors",
+    "logoUrl": "https://img.logo.dev/eichermotors.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "37.57",
+    "stockCostPerRate": "7.6 (8.03%)"
+  },
+  {
+    "stock_id": "Pidilite-Industries-ltd",
+    "name": "Pidilite Industries",
+    "logoUrl": "https://img.logo.dev/pidilite.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1358.09",
+    "stockCostPerRate": "2.83 (0.77%)"
+  },
+  {
+    "stock_id": "Shree-Cement-ltd",
+    "name": "Shree Cement",
+    "logoUrl": "https://img.logo.dev/shreecement.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1883.9",
+    "stockCostPerRate": "5.54 (1.12%)"
+  },
+  {
+    "stock_id": "Hindalco-Industries-ltd",
+    "name": "Hindalco Industries",
+    "logoUrl": "https://img.logo.dev/hindalco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1403.77",
+    "stockCostPerRate": "5.98 (3.49%)"
+  },
+  {
+    "stock_id": "Nestle-India-ltd",
+    "name": "Nestle India",
+    "logoUrl": "https://img.logo.dev/nestle.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "421.84",
+    "stockCostPerRate": "4.96 (0.66%)"
+  },
+  {
+    "stock_id": "UPL-Limited-ltd",
+    "name": "UPL Limited",
+    "logoUrl": "https://img.logo.dev/upl-ltd.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "958.36",
+    "stockCostPerRate": "4.79 (7.23%)"
+  },
+  {
+    "stock_id": "Godrej-Consumer-Products-ltd",
+    "name": "Godrej Consumer Products",
+    "logoUrl": "https://img.logo.dev/godrejcp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1381.88",
+    "stockCostPerRate": "3.83 (7.4%)"
+  },
+  {
+    "stock_id": "Cipla-ltd",
+    "name": "Cipla",
+    "logoUrl": "https://img.logo.dev/cipla.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "792.37",
+    "stockCostPerRate": "1.87 (5.06%)"
+  },
+  {
+    "stock_id": "Indian-Oil-Corporation-IOC-ltd",
+    "name": "Indian Oil Corporation IOC",
+    "logoUrl": "https://img.logo.dev/iocl.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "935.09",
+    "stockCostPerRate": "7.04 (7.21%)"
+  },
+  {
+    "stock_id": "Bharat-Petroleum--ltd",
+    "name": "Bharat Petroleum ",
+    "logoUrl": "https://img.logo.dev/bharatpetroleum.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1994.89",
+    "stockCostPerRate": "2.99 (5.92%)"
+  },
+  {
+    "stock_id": "Bosch-India-ltd",
+    "name": "Bosch India",
+    "logoUrl": "https://img.logo.dev/bosch.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "969.03",
+    "stockCostPerRate": "7.17 (5.47%)"
+  },
+  {
+    "stock_id": "Muthoot-Finance-ltd",
+    "name": "Muthoot Finance",
+    "logoUrl": "https://img.logo.dev/muthootfinance.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1417.09",
+    "stockCostPerRate": "6.31 (3.79%)"
+  },
+  {
+    "stock_id": "Page-Industries-ltd",
+    "name": "Page Industries",
+    "logoUrl": "https://img.logo.dev/jockeyindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "201.64",
+    "stockCostPerRate": "9.52 (6.24%)"
+  },
+  {
+    "stock_id": "Siemens-India-ltd",
+    "name": "Siemens India",
+    "logoUrl": "https://img.logo.dev/siemens.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1922.99",
+    "stockCostPerRate": "4.22 (3.11%)"
+  },
+  {
+    "stock_id": "ICICI-Prudential-Life-ltd",
+    "name": "ICICI Prudential Life",
+    "logoUrl": "https://img.logo.dev/iciciprulife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "834.89",
+    "stockCostPerRate": "0.21 (9.88%)"
+  },
+  {
+    "stock_id": "SRF-Limited-ltd",
+    "name": "SRF Limited",
+    "logoUrl": "https://img.logo.dev/srf.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "423.59",
+    "stockCostPerRate": "1.31 (2.86%)"
+  },
+  {
+    "stock_id": "Mphasis-ltd",
+    "name": "Mphasis",
+    "logoUrl": "https://img.logo.dev/mphasis.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "90.86",
+    "stockCostPerRate": "4.94 (3.61%)"
+  },
+  {
+    "stock_id": "SBI-Life-Insurance-ltd",
+    "name": "SBI Life Insurance",
+    "logoUrl": "https://img.logo.dev/sbilife.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1846.24",
+    "stockCostPerRate": "2.26 (9.15%)"
+  },
+  {
+    "stock_id": "Jubilant-FoodWorks-ltd",
+    "name": "Jubilant FoodWorks",
+    "logoUrl": "https://img.logo.dev/jubilantfoodworks.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1994.7",
+    "stockCostPerRate": "0.14 (3.27%)"
+  },
+  {
+    "stock_id": "Max-Financial-Services-ltd",
+    "name": "Max Financial Services",
+    "logoUrl": "https://img.logo.dev/maxfinancialservices.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "190.94",
+    "stockCostPerRate": "4.05 (3.06%)"
+  },
+  {
+    "stock_id": "Tata-Consumer-Products-ltd",
+    "name": "Tata Consumer Products",
+    "logoUrl": "https://img.logo.dev/tataconsumer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "177.34",
+    "stockCostPerRate": "0.36 (2.99%)"
+  },
+  {
+    "stock_id": "Punjab-National-Bank-PNB-ltd",
+    "name": "Punjab National Bank PNB",
+    "logoUrl": "https://img.logo.dev/pnbindia.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "743.75",
+    "stockCostPerRate": "1.02 (0.88%)"
+  },
+  {
+    "stock_id": "Yes-Bank-ltd",
+    "name": "Yes Bank",
+    "logoUrl": "https://img.logo.dev/yesbank.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "362.21",
+    "stockCostPerRate": "6.62 (0.43%)"
+  },
+  {
+    "stock_id": "GMR-Infrastructure-ltd",
+    "name": "GMR Infrastructure",
+    "logoUrl": "https://img.logo.dev/gmrgroup.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1549.34",
+    "stockCostPerRate": "5.03 (2.22%)"
+  },
+  {
+    "stock_id": "Lupin-Pharmaceuticals-ltd",
+    "name": "Lupin Pharmaceuticals",
+    "logoUrl": "https://img.logo.dev/lupin.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1493.68",
+    "stockCostPerRate": "5.86 (2.55%)"
+  },
+  {
+    "stock_id": "Bajaj-Electricals-ltd",
+    "name": "Bajaj Electricals",
+    "logoUrl": "https://img.logo.dev/bajajelectricals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "831.62",
+    "stockCostPerRate": "5.46 (6.39%)"
+  },
+  {
+    "stock_id": "Godrej-Properties-ltd",
+    "name": "Godrej Properties",
+    "logoUrl": "https://img.logo.dev/godrejproperties.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "329.13",
+    "stockCostPerRate": "2.72 (0.62%)"
+  },
+  {
+    "stock_id": "Apollo-Hospitals-ltd",
+    "name": "Apollo Hospitals",
+    "logoUrl": "https://img.logo.dev/apollohospitals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1099.93",
+    "stockCostPerRate": "4.38 (6.13%)"
+  },
+  {
+    "stock_id": "Balkrishna-Industries-ltd",
+    "name": "Balkrishna Industries",
+    "logoUrl": "https://img.logo.dev/bkt-tires.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "859.36",
+    "stockCostPerRate": "1.97 (7.78%)"
+  },
+  {
+    "stock_id": "Crompton-Greaves-ltd",
+    "name": "Crompton Greaves",
+    "logoUrl": "https://img.logo.dev/crompton.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "469.59",
+    "stockCostPerRate": "0.23 (9.35%)"
+  },
+  {
+    "stock_id": "RBL-Bank-ltd",
+    "name": "RBL Bank",
+    "logoUrl": "https://img.logo.dev/rblbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1972.22",
+    "stockCostPerRate": "7.45 (3.3%)"
+  },
+  {
+    "stock_id": "Sundaram-Finance-ltd",
+    "name": "Sundaram Finance",
+    "logoUrl": "https://img.logo.dev/sundaramfinance.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1101.74",
+    "stockCostPerRate": "6.23 (7.41%)"
+  },
+  {
+    "stock_id": "Voltas-ltd",
+    "name": "Voltas",
+    "logoUrl": "https://img.logo.dev/voltas.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "395.74",
+    "stockCostPerRate": "1.44 (0.78%)"
+  },
+  {
+    "stock_id": "Glenmark-Pharmaceuticals-ltd",
+    "name": "Glenmark Pharmaceuticals",
+    "logoUrl": "https://img.logo.dev/glenmarkpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "176.85",
+    "stockCostPerRate": "2.71 (9.66%)"
+  },
+  {
+    "stock_id": "Ashok-Leyland-ltd",
+    "name": "Ashok Leyland",
+    "logoUrl": "https://img.logo.dev/ashokleyland.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1821.8",
+    "stockCostPerRate": "1.3 (4.9%)"
+  },
+  {
+    "stock_id": "Bank-of-Baroda-ltd",
+    "name": "Bank of Baroda",
+    "logoUrl": "https://img.logo.dev/bankofbaroda.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "821.28",
+    "stockCostPerRate": "9 (9.95%)"
+  },
+  {
+    "stock_id": "Canara-Bank-ltd",
+    "name": "Canara Bank",
+    "logoUrl": "https://img.logo.dev/canarabank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "329.57",
+    "stockCostPerRate": "3.89 (1.2%)"
+  },
+  {
+    "stock_id": "Union-Bank-of-India-ltd",
+    "name": "Union Bank of India",
+    "logoUrl": "https://img.logo.dev/unionbankofindia.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "539.25",
+    "stockCostPerRate": "0.82 (5.14%)"
+  },
+  {
+    "stock_id": "Piramal-Enterprises-ltd",
+    "name": "Piramal Enterprises",
+    "logoUrl": "https://img.logo.dev/piramal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "60.33",
+    "stockCostPerRate": "1.17 (8.97%)"
+  },
+  {
+    "stock_id": "Exide-Industries-ltd",
+    "name": "Exide Industries",
+    "logoUrl": "https://img.logo.dev/exideindustries.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "181.31",
+    "stockCostPerRate": "8.84 (7.45%)"
+  },
+  {
+    "stock_id": "Mindtree-ltd",
+    "name": "Mindtree",
+    "logoUrl": "https://img.logo.dev/mindtree.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "995.43",
+    "stockCostPerRate": "7.95 (3.54%)"
+  },
+  {
+    "stock_id": "Zydus-Cadila-ltd",
+    "name": "Zydus Cadila",
+    "logoUrl": "https://img.logo.dev/zyduscadila.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1717.72",
+    "stockCostPerRate": "7.08 (4.09%)"
+  },
+  {
+    "stock_id": "LIC-Housing-Finance-ltd",
+    "name": "LIC Housing Finance",
+    "logoUrl": "https://img.logo.dev/lichousing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1255.63",
+    "stockCostPerRate": "8.42 (8.72%)"
+  },
+  {
+    "stock_id": "IDBI-Bank-ltd",
+    "name": "IDBI Bank",
+    "logoUrl": "https://img.logo.dev/idbi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1872.86",
+    "stockCostPerRate": "1.63 (5.48%)"
+  },
+  {
+    "stock_id": "Indiabulls-Housing-Finance-ltd",
+    "name": "Indiabulls Housing Finance",
+    "logoUrl": "https://img.logo.dev/indiabullshomeloans.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1694.85",
+    "stockCostPerRate": "8.56 (0.8%)"
+  },
+  {
+    "stock_id": "Fortis-Healthcare-ltd",
+    "name": "Fortis Healthcare",
+    "logoUrl": "https://img.logo.dev/fortishealthcare.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "414.39",
+    "stockCostPerRate": "0.76 (6.93%)"
+  },
+  {
+    "stock_id": "Aurobindo-Pharma-ltd",
+    "name": "Aurobindo Pharma",
+    "logoUrl": "https://img.logo.dev/aurobindo.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "780.9",
+    "stockCostPerRate": "1.83 (8.71%)"
+  },
+  {
+    "stock_id": "Phoenix-Mills-ltd",
+    "name": "Phoenix Mills",
+    "logoUrl": "https://img.logo.dev/phoenixmills.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1568.37",
+    "stockCostPerRate": "9.92 (7.22%)"
+  },
+  {
+    "stock_id": "Adani-Green-Energy-ltd",
+    "name": "Adani Green Energy",
+    "logoUrl": "https://img.logo.dev/adanigreenenergy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "484.01",
+    "stockCostPerRate": "0.99 (8.96%)"
+  },
+  {
+    "stock_id": "Torrent-Pharmaceuticals-ltd",
+    "name": "Torrent Pharmaceuticals",
+    "logoUrl": "https://img.logo.dev/torrentpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1895.94",
+    "stockCostPerRate": "4.88 (1.48%)"
+  },
+  {
+    "stock_id": "Tata-Chemicals-ltd",
+    "name": "Tata Chemicals",
+    "logoUrl": "https://img.logo.dev/tatachemicals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "148.52",
+    "stockCostPerRate": "6.89 (0.65%)"
+  },
+  {
+    "stock_id": "CESC-Limited-ltd",
+    "name": "CESC Limited",
+    "logoUrl": "https://img.logo.dev/cesc.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "738.18",
+    "stockCostPerRate": "7.83 (7.4%)"
+  },
+  {
+    "stock_id": "Biocon-ltd",
+    "name": "Biocon",
+    "logoUrl": "https://img.logo.dev/biocon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1794.09",
+    "stockCostPerRate": "8.1 (0.17%)"
+  },
+  {
+    "stock_id": "NBCC-India-ltd",
+    "name": "NBCC India",
+    "logoUrl": "https://img.logo.dev/nbccindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1169.92",
+    "stockCostPerRate": "3.05 (4.14%)"
+  },
+  {
+    "stock_id": "Container-Corporation-of-India-ltd",
+    "name": "Container Corporation of India",
+    "logoUrl": "https://img.logo.dev/concorindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "842.99",
+    "stockCostPerRate": "5.48 (8.81%)"
+  },
+  {
+    "stock_id": "Apple-Inc-ltd",
+    "name": "Apple Inc",
+    "logoUrl": "https://img.logo.dev/apple.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "307.25",
+    "stockCostPerRate": "1.72 (2.66%)"
+  },
+  {
+    "stock_id": "Microsoft-Corporation-ltd",
+    "name": "Microsoft Corporation",
+    "logoUrl": "https://img.logo.dev/microsoft.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1287.42",
+    "stockCostPerRate": "7.06 (2.58%)"
+  },
+  {
+    "stock_id": "Amazon-ltd",
+    "name": "Amazon",
+    "logoUrl": "https://img.logo.dev/amazon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "741.77",
+    "stockCostPerRate": "7.13 (1.18%)"
+  },
+  {
+    "stock_id": "Alphabet-Google-ltd",
+    "name": "Alphabet Google",
+    "logoUrl": "https://img.logo.dev/abc.xyz?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "545.73",
+    "stockCostPerRate": "0.06 (3.52%)"
+  },
+  {
+    "stock_id": "Berkshire-Hathaway-ltd",
+    "name": "Berkshire Hathaway",
+    "logoUrl": "https://img.logo.dev/berkshirehathaway.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "956.47",
+    "stockCostPerRate": "6.53 (4.88%)"
+  },
+  {
+    "stock_id": "Tesla-ltd",
+    "name": "Tesla",
+    "logoUrl": "https://img.logo.dev/tesla.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "927.93",
+    "stockCostPerRate": "1.34 (4.8%)"
+  },
+  {
+    "stock_id": "Meta-Platforms-ltd",
+    "name": "Meta Platforms",
+    "logoUrl": "https://img.logo.dev/meta.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "939.48",
+    "stockCostPerRate": "3.63 (5.97%)"
+  },
+  {
+    "stock_id": "Johnson-&-Johnson-ltd",
+    "name": "Johnson & Johnson",
+    "logoUrl": "https://img.logo.dev/jnj.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1722.19",
+    "stockCostPerRate": "2.16 (5.84%)"
+  },
+  {
+    "stock_id": "Visa-ltd",
+    "name": "Visa",
+    "logoUrl": "https://img.logo.dev/visa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1945.16",
+    "stockCostPerRate": "8.93 (8.91%)"
+  },
+  {
+    "stock_id": "Walmart-ltd",
+    "name": "Walmart",
+    "logoUrl": "https://img.logo.dev/walmart.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "447.37",
+    "stockCostPerRate": "1.8 (2.27%)"
+  },
+  {
+    "stock_id": "Procter-Gamble-ltd",
+    "name": "Procter Gamble",
+    "logoUrl": "https://img.logo.dev/pg.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1300.3",
+    "stockCostPerRate": "9.25 (1.77%)"
+  },
+  {
+    "stock_id": "UnitedHealth-Group-Incorporated-ltd",
+    "name": "UnitedHealth Group Incorporated",
+    "logoUrl": "https://img.logo.dev/unitedhealthgroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "942.04",
+    "stockCostPerRate": "2.38 (7.01%)"
+  },
+  {
+    "stock_id": "NVIDIA-Corporation-ltd",
+    "name": "NVIDIA Corporation",
+    "logoUrl": "https://img.logo.dev/nvidia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1756.3",
+    "stockCostPerRate": "7.6 (0.76%)"
+  },
+  {
+    "stock_id": "Exxon-Mobil-Corporation-ltd",
+    "name": "Exxon Mobil Corporation",
+    "logoUrl": "https://img.logo.dev/exxonmobil.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "632.59",
+    "stockCostPerRate": "2.92 (0.46%)"
+  },
+  {
+    "stock_id": "Pfizer-Inc-ltd",
+    "name": "Pfizer Inc",
+    "logoUrl": "https://img.logo.dev/pfizer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "825.09",
+    "stockCostPerRate": "5.84 (2.82%)"
+  },
+  {
+    "stock_id": "Chevron-Corporation-ltd",
+    "name": "Chevron Corporation",
+    "logoUrl": "https://img.logo.dev/chevron.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1708.63",
+    "stockCostPerRate": "9.48 (3.43%)"
+  },
+  {
+    "stock_id": "AbbVie-Inc-ltd",
+    "name": "AbbVie Inc",
+    "logoUrl": "https://img.logo.dev/abbvie.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1977.72",
+    "stockCostPerRate": "9.14 (0.09%)"
+  },
+  {
+    "stock_id": "Coca-Cola-name-ltd",
+    "name": "Coca-Cola name",
+    "logoUrl": "https://img.logo.dev/coca-cola.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "27.52",
+    "stockCostPerRate": "4.1 (6.35%)"
+  },
+  {
+    "stock_id": "Walt-Disney-name-ltd",
+    "name": "Walt Disney name",
+    "logoUrl": "https://img.logo.dev/thewaltdisneyname.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "299.49",
+    "stockCostPerRate": "0.48 (1.65%)"
+  },
+  {
+    "stock_id": "Bank-of-America-Corporation-ltd",
+    "name": "Bank of America Corporation",
+    "logoUrl": "https://img.logo.dev/bankofamerica.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1176.21",
+    "stockCostPerRate": "5.23 (7.65%)"
+  },
+  {
+    "stock_id": "Mastercard-Incorporated-ltd",
+    "name": "Mastercard Incorporated",
+    "logoUrl": "https://img.logo.dev/mastercard.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1410.29",
+    "stockCostPerRate": "1.37 (2.85%)"
+  },
+  {
+    "stock_id": "Intel-Corporation-ltd",
+    "name": "Intel Corporation",
+    "logoUrl": "https://img.logo.dev/intel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "522.67",
+    "stockCostPerRate": "3.85 (1.69%)"
+  },
+  {
+    "stock_id": "Verizon-Communications-Inc-ltd",
+    "name": "Verizon Communications Inc",
+    "logoUrl": "https://img.logo.dev/verizon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "222.69",
+    "stockCostPerRate": "6.84 (4.73%)"
+  },
+  {
+    "stock_id": "Home-Depot-ltd",
+    "name": "Home Depot",
+    "logoUrl": "https://img.logo.dev/homedepot.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1756.7",
+    "stockCostPerRate": "4.85 (0.7%)"
+  },
+  {
+    "stock_id": "Netflix-ltd",
+    "name": "Netflix",
+    "logoUrl": "https://img.logo.dev/netflix.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "178.76",
+    "stockCostPerRate": "5.43 (1.12%)"
+  },
+  {
+    "stock_id": "PepsiCo-ltd",
+    "name": "PepsiCo",
+    "logoUrl": "https://img.logo.dev/pepsico.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1324.53",
+    "stockCostPerRate": "2.09 (1.13%)"
+  },
+  {
+    "stock_id": "Cisco-Systems-ltd",
+    "name": "Cisco Systems",
+    "logoUrl": "https://img.logo.dev/cisco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1769.51",
+    "stockCostPerRate": "9.02 (7.92%)"
+  },
+  {
+    "stock_id": "Merck-and-Co-ltd",
+    "name": "Merck and Co",
+    "logoUrl": "https://img.logo.dev/merck.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "20.83",
+    "stockCostPerRate": "1.17 (6.19%)"
+  },
+  {
+    "stock_id": "Salesforce-ltd",
+    "name": "Salesforce",
+    "logoUrl": "https://img.logo.dev/salesforce.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "332.9",
+    "stockCostPerRate": "7.91 (2%)"
+  },
+  {
+    "stock_id": "IBM-Corporation-ltd",
+    "name": "IBM Corporation",
+    "logoUrl": "https://img.logo.dev/ibm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "189.11",
+    "stockCostPerRate": "4.79 (4.5%)"
+  },
+  {
+    "stock_id": "Adobe-ltd",
+    "name": "Adobe",
+    "logoUrl": "https://img.logo.dev/adobe.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1084.17",
+    "stockCostPerRate": "7.61 (3.6%)"
+  },
+  {
+    "stock_id": "Qualcomm-Incorporated-ltd",
+    "name": "Qualcomm Incorporated",
+    "logoUrl": "https://img.logo.dev/qualcomm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "647.18",
+    "stockCostPerRate": "1.58 (3.62%)"
+  },
+  {
+    "stock_id": "Starbucks-Corporation-ltd",
+    "name": "Starbucks Corporation",
+    "logoUrl": "https://img.logo.dev/starbucks.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "96.85",
+    "stockCostPerRate": "3.53 (0.75%)"
+  },
+  {
+    "stock_id": "Boeing-name-ltd",
+    "name": "Boeing name",
+    "logoUrl": "https://img.logo.dev/boeing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "49.45",
+    "stockCostPerRate": "7.35 (6.24%)"
+  },
+  {
+    "stock_id": "Amgen-ltd",
+    "name": "Amgen",
+    "logoUrl": "https://img.logo.dev/amgen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "446.66",
+    "stockCostPerRate": "1.84 (6.89%)"
+  },
+  {
+    "stock_id": "Texas-Instruments-Incorporated-ltd",
+    "name": "Texas Instruments Incorporated",
+    "logoUrl": "https://img.logo.dev/ti.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "468.62",
+    "stockCostPerRate": "9.37 (3.31%)"
+  },
+  {
+    "stock_id": "3M-name-ltd",
+    "name": "3M name",
+    "logoUrl": "https://img.logo.dev/3m.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1907.99",
+    "stockCostPerRate": "7.69 (0.73%)"
+  },
+  {
+    "stock_id": "Union-Pacific-Corporation-ltd",
+    "name": "Union Pacific Corporation",
+    "logoUrl": "https://img.logo.dev/up.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1732",
+    "stockCostPerRate": "1.09 (4.1%)"
+  },
+  {
+    "stock_id": "Goldman-Sachs-Group-ltd",
+    "name": "Goldman Sachs Group",
+    "logoUrl": "https://img.logo.dev/goldmansachs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1063.69",
+    "stockCostPerRate": "2.8 (7.72%)"
+  },
+  {
+    "stock_id": "Lockheed-Martin-Corporation-ltd",
+    "name": "Lockheed Martin Corporation",
+    "logoUrl": "https://img.logo.dev/lockheedmartin.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "341.39",
+    "stockCostPerRate": "4.19 (2.21%)"
+  },
+  {
+    "stock_id": "General-Electric-name-ltd",
+    "name": "General Electric name",
+    "logoUrl": "https://img.logo.dev/ge.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "313.46",
+    "stockCostPerRate": "8.87 (5.14%)"
+  },
+  {
+    "stock_id": "Bristol-Myers-Squibb-name-ltd",
+    "name": "Bristol-Myers Squibb name",
+    "logoUrl": "https://img.logo.dev/bms.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1327.73",
+    "stockCostPerRate": "8.22 (7.38%)"
+  },
+  {
+    "stock_id": "Charter-Communications-ltd",
+    "name": "Charter Communications",
+    "logoUrl": "https://img.logo.dev/charter.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1737.59",
+    "stockCostPerRate": "6.94 (7.53%)"
+  },
+  {
+    "stock_id": "American-Tower-Corporation-ltd",
+    "name": "American Tower Corporation",
+    "logoUrl": "https://img.logo.dev/americantower.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1005.13",
+    "stockCostPerRate": "1.26 (3.18%)"
+  },
+  {
+    "stock_id": "Caterpillar--ltd",
+    "name": "Caterpillar ",
+    "logoUrl": "https://img.logo.dev/caterpillar.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1346.84",
+    "stockCostPerRate": "5.7 (0.02%)"
+  },
+  {
+    "stock_id": "BlackRock-ltd",
+    "name": "BlackRock",
+    "logoUrl": "https://img.logo.dev/blackrock.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1081.74",
+    "stockCostPerRate": "1.48 (5.63%)"
+  },
+  {
+    "stock_id": "Northrop-Grumman-Corporation-ltd",
+    "name": "Northrop Grumman Corporation",
+    "logoUrl": "https://img.logo.dev/northropgrumman.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1600.57",
+    "stockCostPerRate": "9.06 (0.55%)"
+  },
+  {
+    "stock_id": "Delta-Air-Lines-ltd",
+    "name": "Delta Air Lines",
+    "logoUrl": "https://img.logo.dev/delta.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "494.64",
+    "stockCostPerRate": "4.66 (0.42%)"
+  },
+  {
+    "stock_id": "T-Mobile-US-ltd",
+    "name": "T-Mobile US",
+    "logoUrl": "https://img.logo.dev/t-mobile.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "881.33",
+    "stockCostPerRate": "7.34 (7.81%)"
+  },
+  {
+    "stock_id": "Eli-Lilly-and-name-ltd",
+    "name": "Eli Lilly and name",
+    "logoUrl": "https://img.logo.dev/lilly.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "833.86",
+    "stockCostPerRate": "9.2 (4.96%)"
+  },
+  {
+    "stock_id": "Kraft-Heinz-name-ltd",
+    "name": "Kraft Heinz name",
+    "logoUrl": "https://img.logo.dev/kraftheinzname.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "336.09",
+    "stockCostPerRate": "4.34 (3.69%)"
+  },
+  {
+    "stock_id": "Costco-Wholesale-Corporation-ltd",
+    "name": "Costco Wholesale Corporation",
+    "logoUrl": "https://img.logo.dev/costco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "781.99",
+    "stockCostPerRate": "1.08 (2.81%)"
+  },
+  {
+    "stock_id": "Lowe's-Companies-ltd",
+    "name": "Lowe's Companies",
+    "logoUrl": "https://img.logo.dev/lowes.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1194.83",
+    "stockCostPerRate": "7.63 (8.3%)"
+  },
+  {
+    "stock_id": "TJX-Companies-ltd",
+    "name": "TJX Companies",
+    "logoUrl": "https://img.logo.dev/tjx.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "672.35",
+    "stockCostPerRate": "0.62 (5.01%)"
+  },
+  {
+    "stock_id": "General-Motors-name-ltd",
+    "name": "General Motors name",
+    "logoUrl": "https://img.logo.dev/gm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1019.59",
+    "stockCostPerRate": "8.44 (1.28%)"
+  },
+  {
+    "stock_id": "Biogen-ltd",
+    "name": "Biogen",
+    "logoUrl": "https://img.logo.dev/biogen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "577.63",
+    "stockCostPerRate": "0.86 (8.47%)"
+  },
+  {
+    "stock_id": "American-Express-name-ltd",
+    "name": "American Express name",
+    "logoUrl": "https://img.logo.dev/americanexpress.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1895.42",
+    "stockCostPerRate": "4.01 (4.11%)"
+  },
+  {
+    "stock_id": "Booking-Holdings-ltd",
+    "name": "Booking Holdings",
+    "logoUrl": "https://img.logo.dev/bookingholdings.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "195.37",
+    "stockCostPerRate": "6.65 (7.04%)"
+  },
+  {
+    "stock_id": "Activision-Blizzard-ltd",
+    "name": "Activision Blizzard",
+    "logoUrl": "https://img.logo.dev/activisionblizzard.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "439.32",
+    "stockCostPerRate": "4.28 (7.28%)"
+  },
+  {
+    "stock_id": "Illumina-ltd",
+    "name": "Illumina",
+    "logoUrl": "https://img.logo.dev/illumina.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "637.57",
+    "stockCostPerRate": "9.68 (5.01%)"
+  },
+  {
+    "stock_id": "Mondelez-International-ltd",
+    "name": "Mondelez International",
+    "logoUrl": "https://img.logo.dev/mondelezinternational.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "529.55",
+    "stockCostPerRate": "0.42 (0.18%)"
+  },
+  {
+    "stock_id": "Novartis-AG-ltd",
+    "name": "Novartis AG",
+    "logoUrl": "https://img.logo.dev/novartis.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1502.94",
+    "stockCostPerRate": "8.68 (5.95%)"
+  },
+  {
+    "stock_id": "FedEx-Corporation-ltd",
+    "name": "FedEx Corporation",
+    "logoUrl": "https://img.logo.dev/fedex.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1078.95",
+    "stockCostPerRate": "8.75 (2.85%)"
+  },
+  {
+    "stock_id": "Salesforce-ltd",
+    "name": "Salesforce",
+    "logoUrl": "https://img.logo.dev/salesforce.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "543.31",
+    "stockCostPerRate": "1.97 (7.1%)"
+  },
+  {
+    "stock_id": "Lululemon-Athletica--ltd",
+    "name": "Lululemon Athletica ",
+    "logoUrl": "https://img.logo.dev/lululemon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "220.54",
+    "stockCostPerRate": "4.83 (8.99%)"
+  },
+  {
+    "stock_id": "Pinterest-ltd",
+    "name": "Pinterest",
+    "logoUrl": "https://img.logo.dev/pinterest.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "550.57",
+    "stockCostPerRate": "2.36 (2.02%)"
+  },
+  {
+    "stock_id": "Twilio-ltd",
+    "name": "Twilio",
+    "logoUrl": "https://img.logo.dev/twilio.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "69.15",
+    "stockCostPerRate": "2.13 (5.53%)"
+  },
+  {
+    "stock_id": "Square-ltd",
+    "name": "Square",
+    "logoUrl": "https://img.logo.dev/squareup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "589.24",
+    "stockCostPerRate": "5.48 (5.44%)"
+  },
+  {
+    "stock_id": "Snap-ltd",
+    "name": "Snap",
+    "logoUrl": "https://img.logo.dev/snap.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "743.42",
+    "stockCostPerRate": "0.14 (9.07%)"
+  },
+  {
+    "stock_id": "Yelp-ltd",
+    "name": "Yelp",
+    "logoUrl": "https://img.logo.dev/yelp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1481.67",
+    "stockCostPerRate": "8.43 (9.37%)"
+  },
+  {
+    "stock_id": "Wayfair-ltd",
+    "name": "Wayfair",
+    "logoUrl": "https://img.logo.dev/wayfair.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "11.84",
+    "stockCostPerRate": "7.4 (5.1%)"
+  },
+  {
+    "stock_id": "Workda-ltd",
+    "name": "Workda",
+    "logoUrl": "https://img.logo.dev/workday.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "516.57",
+    "stockCostPerRate": "0.7 (2.02%)"
+  },
+  {
+    "stock_id": "Zillow-Grou-ltd",
+    "name": "Zillow Grou",
+    "logoUrl": "https://img.logo.dev/zillow.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "995.83",
+    "stockCostPerRate": "0.26 (6.64%)"
+  },
+  {
+    "stock_id": "DoorDas-ltd",
+    "name": "DoorDas",
+    "logoUrl": "https://img.logo.dev/doordash.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1368.62",
+    "stockCostPerRate": "1.58 (5.23%)"
+  },
+  {
+    "stock_id": "Ets-ltd",
+    "name": "Ets",
+    "logoUrl": "https://img.logo.dev/etsy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1151.63",
+    "stockCostPerRate": "2.58 (5.45%)"
+  },
+  {
+    "stock_id": "Dropbo-ltd",
+    "name": "Dropbo",
+    "logoUrl": "https://img.logo.dev/dropbox.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1838.76",
+    "stockCostPerRate": "0.51 (3.43%)"
+  },
+  {
+    "stock_id": "Robinhood-Market-ltd",
+    "name": "Robinhood Market",
+    "logoUrl": "https://img.logo.dev/robinhood.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1250.3",
+    "stockCostPerRate": "7.87 (3.43%)"
+  },
+  {
+    "stock_id": "NIO-Inc.-ltd",
+    "name": "NIO Inc.",
+    "logoUrl": "https://img.logo.dev/nio.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "866.18",
+    "stockCostPerRate": "3.66 (2.14%)"
+  },
+  {
+    "stock_id": "Palantir-Technologies-Inc.-ltd",
+    "name": "Palantir Technologies Inc.",
+    "logoUrl": "https://img.logo.dev/palantir.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1921.25",
+    "stockCostPerRate": "5.98 (2.75%)"
+  },
+  {
+    "stock_id": "Beyond-Mea-ltd",
+    "name": "Beyond Mea",
+    "logoUrl": "https://img.logo.dev/beyondmeat.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1492.46",
+    "stockCostPerRate": "6.77 (8.04%)"
+  },
+  {
+    "stock_id": "Snap-on-Incorporated-ltd",
+    "name": "Snap-on Incorporated",
+    "logoUrl": "https://img.logo.dev/snapon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1556.55",
+    "stockCostPerRate": "5.52 (1.56%)"
+  },
+  {
+    "stock_id": "Veeva-Systems-ltd",
+    "name": "Veeva Systems",
+    "logoUrl": "https://img.logo.dev/veeva.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "922.36",
+    "stockCostPerRate": "4.33 (6.87%)"
+  },
+  {
+    "stock_id": "Fiverr-International-Ltd-ltd",
+    "name": "Fiverr International Ltd",
+    "logoUrl": "https://img.logo.dev/fiverr.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1398.96",
+    "stockCostPerRate": "9.16 (7.15%)"
+  },
+  {
+    "stock_id": "Nutanix-ltd",
+    "name": "Nutanix",
+    "logoUrl": "https://img.logo.dev/nutanix.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1590.34",
+    "stockCostPerRate": "0.37 (1.52%)"
+  },
+  {
+    "stock_id": "RingCentral-ltd",
+    "name": "RingCentral",
+    "logoUrl": "https://img.logo.dev/ringcentral.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "492.07",
+    "stockCostPerRate": "4.1 (3.55%)"
+  },
+  {
+    "stock_id": "Shopify--ltd",
+    "name": "Shopify ",
+    "logoUrl": "https://img.logo.dev/shopify.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1726.63",
+    "stockCostPerRate": "9.04 (6.06%)"
+  },
+  {
+    "stock_id": "Okta-ltd",
+    "name": "Okta",
+    "logoUrl": "https://img.logo.dev/okta.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1488.71",
+    "stockCostPerRate": "9.39 (7.22%)"
+  },
+  {
+    "stock_id": "Sea-Limited-ltd",
+    "name": "Sea Limited",
+    "logoUrl": "https://img.logo.dev/seagroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "96.55",
+    "stockCostPerRate": "7.04 (6.96%)"
+  },
+  {
+    "stock_id": "CrowdStrike-Holdings-ltd",
+    "name": "CrowdStrike Holdings",
+    "logoUrl": "https://img.logo.dev/crowdstrike.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1932.8",
+    "stockCostPerRate": "5.19 (5.2%)"
+  },
+  {
+    "stock_id": "Teladoc-Health-ltd",
+    "name": "Teladoc Health",
+    "logoUrl": "https://img.logo.dev/teladoc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "49.19",
+    "stockCostPerRate": "3.8 (9.38%)"
+  },
+  {
+    "stock_id": "C3.ai-ltd",
+    "name": "C3.ai",
+    "logoUrl": "https://img.logo.dev/c3.ai?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "744.7",
+    "stockCostPerRate": "6.42 (0.23%)"
+  },
+  {
+    "stock_id": "Cloudflare-ltd",
+    "name": "Cloudflare",
+    "logoUrl": "https://img.logo.dev/cloudflare.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1074.71",
+    "stockCostPerRate": "9.05 (9.48%)"
+  },
+  {
+    "stock_id": "Datadog-ltd",
+    "name": "Datadog",
+    "logoUrl": "https://img.logo.dev/datadoghq.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "399.09",
+    "stockCostPerRate": "8.47 (2.86%)"
+  },
+  {
+    "stock_id": "Roku-ltd",
+    "name": "Roku",
+    "logoUrl": "https://img.logo.dev/roku.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "417.93",
+    "stockCostPerRate": "6.56 (5.61%)"
+  },
+  {
+    "stock_id": "Snowflake-ltd",
+    "name": "Snowflake",
+    "logoUrl": "https://img.logo.dev/snowflake.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1853.86",
+    "stockCostPerRate": "3.94 (2.93%)"
+  },
+  {
+    "stock_id": "Databricks-ltd",
+    "name": "Databricks",
+    "logoUrl": "https://img.logo.dev/databricks.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ",
+    "stockCost": "1239.01",
+    "stockCostPerRate": "5.66 (4.98%)"
+  }
+]
