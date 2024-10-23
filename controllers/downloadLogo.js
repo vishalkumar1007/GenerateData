@@ -20,7 +20,7 @@ const downloadLogo = async(req,res)=>{
             fs.mkdirSync(path.resolve(__dirname,'images'));
         }
     
-        for(let i=0 ; i<companyNameLogo.length ; i++){
+        for(let i=207 ; i<companyNameLogo.length ; i++){
             const cp_name = companyNameLogo[i].companyName;
             const cp_url = companyNameLogo[i].logoUrl;
             const cp_file_name = cp_name.replaceAll(" ", "-");

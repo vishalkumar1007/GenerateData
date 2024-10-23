@@ -1,158 +1,158 @@
 [
   {
     "id": 0,
-    "companyName": "JPMorgan Chase",
-    "logoUrl": "https://img.logo.dev/jpmorganchase.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 1,
-    "companyName": "Saudi Aramco",
-    "logoUrl": "https://img.logo.dev/aramco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 2,
-    "companyName": "Citigroup",
-    "logoUrl": "https://img.logo.dev/citigroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 3,
-    "companyName": "Industrial and Commercial Bank of China",
-    "logoUrl": "https://img.logo.dev/icbc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 4,
-    "companyName": "China Construction Bank",
-    "logoUrl": "https://img.logo.dev/ccb.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 5,
-    "companyName": "Bank of America",
-    "logoUrl": "https://img.logo.dev/bankofamerica.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 6,
-    "companyName": "Alphabet Google",
-    "logoUrl": "https://img.logo.dev/abc.xyz?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 7,
-    "companyName": "Berkshire Hathaway",
-    "logoUrl": "https://img.logo.dev/berkshirehathaway.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 8,
-    "companyName": "Microsoft",
-    "logoUrl": "https://img.logo.dev/microsoft.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 9,
-    "companyName": "Apple",
-    "logoUrl": "https://img.logo.dev/apple.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 10,
-    "companyName": "Toyota Motor",
-    "logoUrl": "https://img.logo.dev/toyota.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 11,
-    "companyName": "Amazon",
-    "logoUrl": "https://img.logo.dev/amazon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 12,
-    "companyName": "Ping An Insurance",
-    "logoUrl": "https://img.logo.dev/pingan.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 13,
     "companyName": "Walmart",
     "logoUrl": "https://img.logo.dev/walmart.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 14,
-    "companyName": "ExxonMobil",
-    "logoUrl": "https://img.logo.dev/exxonmobil.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 1,
+    "companyName": "Sinopec Group",
+    "logoUrl": "https://img.logo.dev/sinopec.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 15,
-    "companyName": "Shell",
+    "id": 2,
+    "companyName": "Royal Dutch Shell",
     "logoUrl": "https://img.logo.dev/shell.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 16,
-    "companyName": "Volkswagen",
-    "logoUrl": "https://img.logo.dev/volkswagen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 3,
+    "companyName": "China National Petroleum",
+    "logoUrl": "https://img.logo.dev/cnpc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 17,
+    "id": 4,
+    "companyName": "Exxon Mobil",
+    "logoUrl": "https://img.logo.dev/exxonmobil.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 5,
+    "companyName": "BP",
+    "logoUrl": "https://img.logo.dev/bp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 6,
+    "companyName": "State Grid",
+    "logoUrl": "https://img.logo.dev/sgcc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 7,
+    "companyName": "Volkswagen",
+    "logoUrl": "https://img.logo.dev/volkswagenag.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 8,
+    "companyName": "Toyota Motor",
+    "logoUrl": "https://img.logo.dev/toyota-global.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 9,
+    "companyName": "Glencore",
+    "logoUrl": "https://img.logo.dev/glencore.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 10,
+    "companyName": "Total",
+    "logoUrl": "https://img.logo.dev/total.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 11,
+    "companyName": "Chevron",
+    "logoUrl": "https://img.logo.dev/chevron.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 12,
     "companyName": "Samsung Electronics",
     "logoUrl": "https://img.logo.dev/samsung.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
+    "id": 13,
+    "companyName": "Berkshire Hathaway",
+    "logoUrl": "https://img.logo.dev/berkshirehathaway.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 14,
+    "companyName": "Apple",
+    "logoUrl": "https://img.logo.dev/apple.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 15,
+    "companyName": "McKesson",
+    "logoUrl": "https://img.logo.dev/mckesson.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 16,
+    "companyName": "Daimler",
+    "logoUrl": "https://img.logo.dev/daimler.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 17,
+    "companyName": "Industrial and Commer. Bank of China",
+    "logoUrl": "https://img.logo.dev/icbc-ltd.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
     "id": 18,
-    "companyName": "Alibaba Group",
-    "logoUrl": "https://img.logo.dev/alibaba.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "EXOR Group",
+    "logoUrl": "https://img.logo.dev/exor.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 19,
-    "companyName": "Meta (Facebook)",
-    "logoUrl": "https://img.logo.dev/meta.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "AXA",
+    "logoUrl": "https://img.logo.dev/axa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 20,
-    "companyName": "TotalEnergies",
-    "logoUrl": "https://img.logo.dev/totalenergies.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "General Motors",
+    "logoUrl": "https://img.logo.dev/gm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 21,
-    "companyName": "Nestle",
-    "logoUrl": "https://img.logo.dev/nestle.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "E.ON",
+    "logoUrl": "https://img.logo.dev/eon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 22,
-    "companyName": "Pfizer",
-    "logoUrl": "https://img.logo.dev/pfizer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Phillips 66",
+    "logoUrl": "https://img.logo.dev/phillips66.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 23,
-    "companyName": "Procter and Gamble",
-    "logoUrl": "https://img.logo.dev/pg.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "General Electric",
+    "logoUrl": "https://img.logo.dev/ge.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 24,
-    "companyName": "Tesla",
-    "logoUrl": "https://img.logo.dev/tesla.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "ENI",
+    "logoUrl": "https://img.logo.dev/eni.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 25,
-    "companyName": "HSBC",
-    "logoUrl": "https://img.logo.dev/hsbc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Gazprom",
+    "logoUrl": "https://img.logo.dev/gazprom.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 26,
-    "companyName": "Goldman Sachs",
-    "logoUrl": "https://img.logo.dev/goldmansachs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Ford Motor",
+    "logoUrl": "https://img.logo.dev/ford.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 27,
-    "companyName": "Banco Santander",
-    "logoUrl": "https://img.logo.dev/santander.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Petrobras",
+    "logoUrl": "https://img.logo.dev/petrobras.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 28,
-    "companyName": "BNP Paribas",
-    "logoUrl": "https://img.logo.dev/bnpparibas.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "China Construction Bank",
+    "logoUrl": "https://img.logo.dev/ccb.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 29,
-    "companyName": "Mitsubishi UFJ Financial",
-    "logoUrl": "https://img.logo.dev/mufg.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "CVS Health",
+    "logoUrl": "https://img.logo.dev/cvshealth.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 30,
-    "companyName": "AIA Group",
-    "logoUrl": "https://img.logo.dev/aia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Hon Hai Precision Industry",
+    "logoUrl": "https://img.logo.dev/foxconn.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 31,
@@ -161,1072 +161,3287 @@
   },
   {
     "id": 32,
-    "companyName": "Sony",
-    "logoUrl": "https://img.logo.dev/sony.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "ATandT",
+    "logoUrl": "https://img.logo.dev/att.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 33,
-    "companyName": "PepsiCo",
-    "logoUrl": "https://img.logo.dev/pepsico.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Valero Energy",
+    "logoUrl": "https://img.logo.dev/valero.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 34,
-    "companyName": "Nike",
-    "logoUrl": "https://img.logo.dev/nike.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "UnitedHealth Group",
+    "logoUrl": "https://img.logo.dev/unitedhealthgroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 35,
-    "companyName": "Chevron",
-    "logoUrl": "https://img.logo.dev/chevron.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Agricultural Bank of China",
+    "logoUrl": "https://img.logo.dev/abchina.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 36,
-    "companyName": "IBM",
-    "logoUrl": "https://img.logo.dev/ibm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "China State Construction Engineering",
+    "logoUrl": "https://img.logo.dev/cscec.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 37,
-    "companyName": "General Electric",
-    "logoUrl": "https://img.logo.dev/ge.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Japan Post Holdings",
+    "logoUrl": "https://img.logo.dev/japanpost.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 38,
-    "companyName": "Roche Holding",
-    "logoUrl": "https://img.logo.dev/roche.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "PDVSA",
+    "logoUrl": "https://img.logo.dev/pdvsa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 39,
-    "companyName": "Oracle",
-    "logoUrl": "https://img.logo.dev/oracle.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Trafigura Beheer",
+    "logoUrl": "https://img.logo.dev/trafigura.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 40,
-    "companyName": "Unilever",
-    "logoUrl": "https://img.logo.dev/unilever.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Verizon",
+    "logoUrl": "https://img.logo.dev/verizon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 41,
-    "companyName": "Loreal",
-    "logoUrl": "https://img.logo.dev/loreal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "BNP Paribas",
+    "logoUrl": "https://img.logo.dev/bnpparibas.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 42,
-    "companyName": "Cisco Systems",
-    "logoUrl": "https://img.logo.dev/cisco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Lukoil",
+    "logoUrl": "https://img.logo.dev/lukoil.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 43,
-    "companyName": "Johnson and Johnson",
-    "logoUrl": "https://img.logo.dev/jnj.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Honda Motor",
+    "logoUrl": "https://img.logo.dev/honda.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 44,
-    "companyName": "Boeing",
-    "logoUrl": "https://img.logo.dev/boeing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Bank of China",
+    "logoUrl": "https://img.logo.dev/boc.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 45,
-    "companyName": "Abbott Laboratories",
-    "logoUrl": "https://img.logo.dev/abbott.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "AmerisourceBergen",
+    "logoUrl": "https://img.logo.dev/amerisourcebergen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 46,
-    "companyName": "Intel",
-    "logoUrl": "https://img.logo.dev/intel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Pemex",
+    "logoUrl": "https://img.logo.dev/pemex.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 47,
-    "companyName": "Novartis",
-    "logoUrl": "https://img.logo.dev/novartis.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Assicurazioni Generali",
+    "logoUrl": "https://img.logo.dev/generali.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 48,
-    "companyName": "Mercedes-Benz Group",
-    "logoUrl": "https://img.logo.dev/mercedes-benz.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Societe Generale",
+    "logoUrl": "https://img.logo.dev/societegenerale.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 49,
+    "companyName": "Fannie Mae",
+    "logoUrl": "https://img.logo.dev/fanniemae.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 50,
+    "companyName": "Rosneft Oil",
+    "logoUrl": "https://img.logo.dev/rosneft.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 51,
+    "companyName": "Costco",
+    "logoUrl": "https://img.logo.dev/costco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 52,
+    "companyName": "HP",
+    "logoUrl": "https://img.logo.dev/hp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 53,
+    "companyName": "Kroger",
+    "logoUrl": "https://img.logo.dev/thekrogerco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 54,
+    "companyName": "China Mobile Communications",
+    "logoUrl": "https://img.logo.dev/10086.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 55,
+    "companyName": "BMW",
+    "logoUrl": "https://img.logo.dev/bmwgroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 56,
+    "companyName": "SK Holdings",
+    "logoUrl": "https://img.logo.dev/sk.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 57,
+    "companyName": "Credit Agricole",
+    "logoUrl": "https://img.logo.dev/credit-agricole.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 58,
+    "companyName": "Nissan Motor",
+    "logoUrl": "https://img.logo.dev/nissan-global.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 59,
+    "companyName": "SAIC Motor",
+    "logoUrl": "https://img.logo.dev/saicmotor.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 60,
+    "companyName": "JP Morgan Chase",
+    "logoUrl": "https://img.logo.dev/jpmorganchase.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 61,
+    "companyName": "Tesco",
+    "logoUrl": "https://img.logo.dev/tescoplc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 62,
     "companyName": "Siemens",
     "logoUrl": "https://img.logo.dev/siemens.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 50,
-    "companyName": "Reliance Industries",
-    "logoUrl": "https://img.logo.dev/relianceindustries.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 51,
-    "companyName": "Tata Consultancy Services (TCS)",
-    "logoUrl": "https://img.logo.dev/tcs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 52,
-    "companyName": "Infosys",
-    "logoUrl": "https://img.logo.dev/infosys.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 53,
-    "companyName": "HDFC Bank",
-    "logoUrl": "https://img.logo.dev/hdfcbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 54,
-    "companyName": "ICICI Bank",
-    "logoUrl": "https://img.logo.dev/icicibank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 55,
-    "companyName": "State Bank of India SBI",
-    "logoUrl": "https://img.logo.dev/sbi.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 56,
-    "companyName": "Bharti Airtel",
-    "logoUrl": "https://img.logo.dev/airtel.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 57,
-    "companyName": "Hindustan Unilever Limited HUL",
-    "logoUrl": "https://img.logo.dev/hul.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 58,
-    "companyName": "Wipro",
-    "logoUrl": "https://img.logo.dev/wipro.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 59,
-    "companyName": "Asian Paints",
-    "logoUrl": "https://img.logo.dev/asianpaints.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 60,
-    "companyName": "Larsen and Toubro",
-    "logoUrl": "https://img.logo.dev/larsentoubro.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 61,
-    "companyName": "Kotak Mahindra Bank",
-    "logoUrl": "https://img.logo.dev/kotak.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 62,
-    "companyName": "Mahindra and Mahindra",
-    "logoUrl": "https://img.logo.dev/mahindra.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
     "id": 63,
-    "companyName": "ITC Limited",
-    "logoUrl": "https://img.logo.dev/itcportal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Carrefour",
+    "logoUrl": "https://img.logo.dev/carrefour.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 64,
-    "companyName": "Adani Enterprises",
-    "logoUrl": "https://img.logo.dev/adanienterprises.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Nippon Tel. and Tel.",
+    "logoUrl": "https://img.logo.dev/ntt.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 65,
-    "companyName": "Tata Steel",
-    "logoUrl": "https://img.logo.dev/tatasteel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Express Scripts Holding",
+    "logoUrl": "https://img.logo.dev/express-scripts.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 66,
-    "companyName": "HCL Technologies",
-    "logoUrl": "https://img.logo.dev/hcltech.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Banco Santander",
+    "logoUrl": "https://img.logo.dev/santander.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 67,
-    "companyName": "Maruti Suzuki",
-    "logoUrl": "https://img.logo.dev/marutisuzuki.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Petronas",
+    "logoUrl": "https://img.logo.dev/petronas.com.my?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 68,
-    "companyName": "Power Grid Corporation",
-    "logoUrl": "https://img.logo.dev/powergrid.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Enel",
+    "logoUrl": "https://img.logo.dev/enel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 69,
-    "companyName": "Bajaj Finance",
-    "logoUrl": "https://img.logo.dev/bajajfinserv.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Nestlé",
+    "logoUrl": "https://img.logo.dev/nestle.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 70,
-    "companyName": "Hero MotoCorp",
-    "logoUrl": "https://img.logo.dev/heromotocorp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "China Railway Engineering",
+    "logoUrl": "https://img.logo.dev/crecg.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 71,
-    "companyName": "Oil and Natural Gas Corporation",
-    "logoUrl": "https://img.logo.dev/ongcindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "China National Offshore Oil",
+    "logoUrl": "https://img.logo.dev/cnooc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 72,
-    "companyName": "Tata Motors",
-    "logoUrl": "https://img.logo.dev/tatamotors.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "GDF Suez",
+    "logoUrl": "https://img.logo.dev/gdfsuez.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 73,
-    "companyName": "Coal India",
-    "logoUrl": "https://img.logo.dev/coalindia.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Prudential plc",
+    "logoUrl": "https://img.logo.dev/prudential.co.uk?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 74,
-    "companyName": "Dr Reddys Laboratories",
-    "logoUrl": "https://img.logo.dev/drreddys.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Statoil",
+    "logoUrl": "https://img.logo.dev/statoil.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 75,
-    "companyName": "Sun Pharmaceuticals",
-    "logoUrl": "https://img.logo.dev/sunpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "BASF",
+    "logoUrl": "https://img.logo.dev/basf.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 76,
-    "companyName": "IndusInd Bank",
-    "logoUrl": "https://img.logo.dev/indusind.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Noble Group",
+    "logoUrl": "https://img.logo.dev/thisisnoble.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 77,
-    "companyName": "Axis Bank",
-    "logoUrl": "https://img.logo.dev/axisbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Électricité de France",
+    "logoUrl": "https://img.logo.dev/edf.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 78,
-    "companyName": "HDFC Life Insurance",
-    "logoUrl": "https://img.logo.dev/hdfclife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "China Railway Construction",
+    "logoUrl": "https://img.logo.dev/crcc.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 79,
-    "companyName": "Tech Mahindra",
-    "logoUrl": "https://img.logo.dev/techmahindra.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Bank of America Corp.",
+    "logoUrl": "https://img.logo.dev/bankofamerica.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 80,
-    "companyName": "UltraTech Cement",
-    "logoUrl": "https://img.logo.dev/ultratechcement.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "HSBC Holdings",
+    "logoUrl": "https://img.logo.dev/hsbc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 81,
-    "companyName": "NTPC Limited",
-    "logoUrl": "https://img.logo.dev/ntpc.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "IBM",
+    "logoUrl": "https://img.logo.dev/ibm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 82,
-    "companyName": "Bajaj Auto",
-    "logoUrl": "https://img.logo.dev/bajajauto.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Marathon Petroleum",
+    "logoUrl": "https://img.logo.dev/marathonpetroleum.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 83,
-    "companyName": "Tata Power",
-    "logoUrl": "https://img.logo.dev/tatapower.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Cardinal Health",
+    "logoUrl": "https://img.logo.dev/cardinal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 84,
-    "companyName": "Britannia Industries",
-    "logoUrl": "https://img.logo.dev/britannia.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Boeing",
+    "logoUrl": "https://img.logo.dev/boeing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 85,
-    "companyName": "Zee Entertainment",
-    "logoUrl": "https://img.logo.dev/zeetelevision.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "Citigroup",
+    "logoUrl": "https://img.logo.dev/citigroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 86,
-    "companyName": "Divi Laboratories",
-    "logoUrl": "https://img.logo.dev/divislabs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "companyName": "China Development Bank",
+    "logoUrl": "https://img.logo.dev/cdb.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
     "id": 87,
-    "companyName": "Havells India",
-    "logoUrl": "https://img.logo.dev/havells.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 88,
-    "companyName": "Dabur India",
-    "logoUrl": "https://img.logo.dev/dabur.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 89,
-    "companyName": "Grasim Industries",
-    "logoUrl": "https://img.logo.dev/grasim.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 90,
-    "companyName": "Adani Ports and SEZ",
-    "logoUrl": "https://img.logo.dev/adaniports.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 91,
-    "companyName": "Vedanta Limited",
-    "logoUrl": "https://img.logo.dev/vedantalimited.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 92,
-    "companyName": "JSW Steel",
-    "logoUrl": "https://img.logo.dev/jsw.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 93,
-    "companyName": "GAIL India",
-    "logoUrl": "https://img.logo.dev/gailonline.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 94,
-    "companyName": "Titan name",
-    "logoUrl": "https://img.logo.dev/titanname.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 95,
-    "companyName": "Eicher Motors",
-    "logoUrl": "https://img.logo.dev/eichermotors.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 96,
-    "companyName": "Pidilite Industries",
-    "logoUrl": "https://img.logo.dev/pidilite.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 97,
-    "companyName": "Shree Cement",
-    "logoUrl": "https://img.logo.dev/shreecement.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 98,
-    "companyName": "Hindalco Industries",
-    "logoUrl": "https://img.logo.dev/hindalco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 99,
-    "companyName": "Nestle India",
-    "logoUrl": "https://img.logo.dev/nestle.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 100,
-    "companyName": "UPL Limited",
-    "logoUrl": "https://img.logo.dev/upl-ltd.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 101,
-    "companyName": "Godrej Consumer Products",
-    "logoUrl": "https://img.logo.dev/godrejcp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 102,
-    "companyName": "Cipla",
-    "logoUrl": "https://img.logo.dev/cipla.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 103,
-    "companyName": "Indian Oil Corporation IOC",
-    "logoUrl": "https://img.logo.dev/iocl.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 104,
-    "companyName": "Bharat Petroleum ",
-    "logoUrl": "https://img.logo.dev/bharatpetroleum.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 105,
-    "companyName": "Bosch India",
-    "logoUrl": "https://img.logo.dev/bosch.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 106,
-    "companyName": "Muthoot Finance",
-    "logoUrl": "https://img.logo.dev/muthootfinance.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 107,
-    "companyName": "Page Industries",
-    "logoUrl": "https://img.logo.dev/jockeyindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 108,
-    "companyName": "Siemens India",
-    "logoUrl": "https://img.logo.dev/siemens.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 109,
-    "companyName": "ICICI Prudential Life",
-    "logoUrl": "https://img.logo.dev/iciciprulife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 110,
-    "companyName": "SRF Limited",
-    "logoUrl": "https://img.logo.dev/srf.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 111,
-    "companyName": "Mphasis",
-    "logoUrl": "https://img.logo.dev/mphasis.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 112,
-    "companyName": "SBI Life Insurance",
-    "logoUrl": "https://img.logo.dev/sbilife.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 113,
-    "companyName": "Jubilant FoodWorks",
-    "logoUrl": "https://img.logo.dev/jubilantfoodworks.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 114,
-    "companyName": "Max Financial Services",
-    "logoUrl": "https://img.logo.dev/maxfinancialservices.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 115,
-    "companyName": "Tata Consumer Products",
-    "logoUrl": "https://img.logo.dev/tataconsumer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 116,
-    "companyName": "Punjab National Bank PNB",
-    "logoUrl": "https://img.logo.dev/pnbindia.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 117,
-    "companyName": "Yes Bank",
-    "logoUrl": "https://img.logo.dev/yesbank.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 118,
-    "companyName": "GMR Infrastructure",
-    "logoUrl": "https://img.logo.dev/gmrgroup.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 119,
-    "companyName": "Lupin Pharmaceuticals",
-    "logoUrl": "https://img.logo.dev/lupin.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 120,
-    "companyName": "Bajaj Electricals",
-    "logoUrl": "https://img.logo.dev/bajajelectricals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 121,
-    "companyName": "Godrej Properties",
-    "logoUrl": "https://img.logo.dev/godrejproperties.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 122,
-    "companyName": "Apollo Hospitals",
-    "logoUrl": "https://img.logo.dev/apollohospitals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 123,
-    "companyName": "Balkrishna Industries",
-    "logoUrl": "https://img.logo.dev/bkt-tires.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 124,
-    "companyName": "Crompton Greaves",
-    "logoUrl": "https://img.logo.dev/crompton.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 125,
-    "companyName": "RBL Bank",
-    "logoUrl": "https://img.logo.dev/rblbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 126,
-    "companyName": "Sundaram Finance",
-    "logoUrl": "https://img.logo.dev/sundaramfinance.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 127,
-    "companyName": "Voltas",
-    "logoUrl": "https://img.logo.dev/voltas.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 128,
-    "companyName": "Glenmark Pharmaceuticals",
-    "logoUrl": "https://img.logo.dev/glenmarkpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 129,
-    "companyName": "Ashok Leyland",
-    "logoUrl": "https://img.logo.dev/ashokleyland.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 130,
-    "companyName": "Bank of Baroda",
-    "logoUrl": "https://img.logo.dev/bankofbaroda.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 131,
-    "companyName": "Canara Bank",
-    "logoUrl": "https://img.logo.dev/canarabank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 132,
-    "companyName": "Union Bank of India",
-    "logoUrl": "https://img.logo.dev/unionbankofindia.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 133,
-    "companyName": "Piramal Enterprises",
-    "logoUrl": "https://img.logo.dev/piramal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 134,
-    "companyName": "Exide Industries",
-    "logoUrl": "https://img.logo.dev/exideindustries.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 135,
-    "companyName": "Mindtree",
-    "logoUrl": "https://img.logo.dev/mindtree.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 136,
-    "companyName": "Zydus Cadila",
-    "logoUrl": "https://img.logo.dev/zyduscadila.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 137,
-    "companyName": "LIC Housing Finance",
-    "logoUrl": "https://img.logo.dev/lichousing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 138,
-    "companyName": "IDBI Bank",
-    "logoUrl": "https://img.logo.dev/idbi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 139,
-    "companyName": "Indiabulls Housing Finance",
-    "logoUrl": "https://img.logo.dev/indiabullshomeloans.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 140,
-    "companyName": "Fortis Healthcare",
-    "logoUrl": "https://img.logo.dev/fortishealthcare.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 141,
-    "companyName": "Aurobindo Pharma",
-    "logoUrl": "https://img.logo.dev/aurobindo.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 142,
-    "companyName": "Phoenix Mills",
-    "logoUrl": "https://img.logo.dev/phoenixmills.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 143,
-    "companyName": "Adani Green Energy",
-    "logoUrl": "https://img.logo.dev/adanigreenenergy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 144,
-    "companyName": "Torrent Pharmaceuticals",
-    "logoUrl": "https://img.logo.dev/torrentpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 145,
-    "companyName": "Tata Chemicals",
-    "logoUrl": "https://img.logo.dev/tatachemicals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 146,
-    "companyName": "CESC Limited",
-    "logoUrl": "https://img.logo.dev/cesc.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 147,
-    "companyName": "Biocon",
-    "logoUrl": "https://img.logo.dev/biocon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 148,
-    "companyName": "NBCC India",
-    "logoUrl": "https://img.logo.dev/nbccindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 149,
-    "companyName": "Container Corporation of India",
-    "logoUrl": "https://img.logo.dev/concorindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 150,
-    "companyName": "Apple Inc",
-    "logoUrl": "https://img.logo.dev/apple.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 151,
-    "companyName": "Microsoft Corporation",
-    "logoUrl": "https://img.logo.dev/microsoft.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 152,
     "companyName": "Amazon",
     "logoUrl": "https://img.logo.dev/amazon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 153,
-    "companyName": "Alphabet Google",
-    "logoUrl": "https://img.logo.dev/abc.xyz?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 88,
+    "companyName": "Hitachi",
+    "logoUrl": "https://img.logo.dev/hitachi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 154,
-    "companyName": "Berkshire Hathaway",
-    "logoUrl": "https://img.logo.dev/berkshirehathaway.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 89,
+    "companyName": "Wells Fargo",
+    "logoUrl": "https://img.logo.dev/wellsfargo.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 155,
-    "companyName": "Tesla",
-    "logoUrl": "https://img.logo.dev/tesla.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 90,
+    "companyName": "ING Group",
+    "logoUrl": "https://img.logo.dev/ing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 156,
-    "companyName": "Meta Platforms",
-    "logoUrl": "https://img.logo.dev/meta.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 91,
+    "companyName": "JX Holdings",
+    "logoUrl": "https://img.logo.dev/hd.jx-group.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 157,
-    "companyName": "Johnson & Johnson",
-    "logoUrl": "https://img.logo.dev/jnj.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 92,
+    "companyName": "PTT",
+    "logoUrl": "https://img.logo.dev/pttplc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 158,
-    "companyName": "Visa",
-    "logoUrl": "https://img.logo.dev/visa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 93,
+    "companyName": "China Life Insurance",
+    "logoUrl": "https://img.logo.dev/chinalife.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 159,
-    "companyName": "Walmart",
-    "logoUrl": "https://img.logo.dev/walmart.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 94,
+    "companyName": "Microsoft",
+    "logoUrl": "https://img.logo.dev/microsoft.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 160,
-    "companyName": "Procter Gamble",
+    "id": 95,
+    "companyName": "Ping An Insurance",
+    "logoUrl": "https://img.logo.dev/pingan.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 96,
+    "companyName": "Metro",
+    "logoUrl": "https://img.logo.dev/metrogroup.de?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 97,
+    "companyName": "Legal and General Group",
+    "logoUrl": "https://img.logo.dev/legalandgeneralgroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 98,
+    "companyName": "Hyundai Motor",
+    "logoUrl": "https://img.logo.dev/worldwide.hyundai.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 99,
+    "companyName": "Procter and Gamble",
     "logoUrl": "https://img.logo.dev/pg.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 161,
-    "companyName": "UnitedHealth Group Incorporated",
-    "logoUrl": "https://img.logo.dev/unitedhealthgroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 162,
-    "companyName": "NVIDIA Corporation",
-    "logoUrl": "https://img.logo.dev/nvidia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 163,
-    "companyName": "Exxon Mobil Corporation",
-    "logoUrl": "https://img.logo.dev/exxonmobil.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 164,
-    "companyName": "Pfizer Inc",
-    "logoUrl": "https://img.logo.dev/pfizer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 165,
-    "companyName": "Chevron Corporation",
-    "logoUrl": "https://img.logo.dev/chevron.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 166,
-    "companyName": "AbbVie Inc",
-    "logoUrl": "https://img.logo.dev/abbvie.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 167,
-    "companyName": "Coca-Cola name",
-    "logoUrl": "https://img.logo.dev/coca-cola.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 168,
-    "companyName": "Walt Disney name",
-    "logoUrl": "https://img.logo.dev/thewaltdisneyname.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 169,
-    "companyName": "Bank of America Corporation",
-    "logoUrl": "https://img.logo.dev/bankofamerica.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 170,
-    "companyName": "Mastercard Incorporated",
-    "logoUrl": "https://img.logo.dev/mastercard.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 171,
-    "companyName": "Intel Corporation",
-    "logoUrl": "https://img.logo.dev/intel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 172,
-    "companyName": "Verizon Communications Inc",
-    "logoUrl": "https://img.logo.dev/verizon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 173,
+    "id": 100,
     "companyName": "Home Depot",
     "logoUrl": "https://img.logo.dev/homedepot.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 174,
-    "companyName": "Netflix",
-    "logoUrl": "https://img.logo.dev/netflix.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 101,
+    "companyName": "Deutsche Telekom",
+    "logoUrl": "https://img.logo.dev/telekom.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 175,
+    "id": 102,
+    "companyName": "Munich Re",
+    "logoUrl": "https://img.logo.dev/munichre.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 103,
+    "companyName": "Archer Daniels Midland",
+    "logoUrl": "https://img.logo.dev/adm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 104,
+    "companyName": "Sinochem",
+    "logoUrl": "https://img.logo.dev/sinochem.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 105,
+    "companyName": "Airbus Group",
+    "logoUrl": "https://img.logo.dev/airbusgroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 106,
+    "companyName": "China FAW Group",
+    "logoUrl": "https://img.logo.dev/faw.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 107,
+    "companyName": "ArcelorMittal",
+    "logoUrl": "https://img.logo.dev/arcelormittal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 108,
+    "companyName": "Dongfeng Motor Group",
+    "logoUrl": "https://img.logo.dev/dfmc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 109,
+    "companyName": "SoftBank Group",
+    "logoUrl": "https://img.logo.dev/softbank.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 110,
+    "companyName": "Deutsche Post",
+    "logoUrl": "https://img.logo.dev/dpdhl.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 111,
+    "companyName": "Itaú Unibanco Holding",
+    "logoUrl": "https://img.logo.dev/itau.com.br?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 112,
+    "companyName": "China Southern Power Grid",
+    "logoUrl": "https://img.logo.dev/csg.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 113,
+    "companyName": "Walgreens",
+    "logoUrl": "https://img.logo.dev/walgreensbootsalliance.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 114,
+    "companyName": "China Resources National",
+    "logoUrl": "https://img.logo.dev/crc.com.hk?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 115,
+    "companyName": "Sony",
+    "logoUrl": "https://img.logo.dev/sony.net?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 116,
+    "companyName": "Target",
+    "logoUrl": "https://img.logo.dev/target.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 117,
+    "companyName": "Johnson and Johnson",
+    "logoUrl": "https://img.logo.dev/jnj.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 118,
+    "companyName": "Indian Oil",
+    "logoUrl": "https://img.logo.dev/iocl.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 119,
+    "companyName": "Anthem",
+    "logoUrl": "https://img.logo.dev/antheminc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 120,
+    "companyName": "MetLife",
+    "logoUrl": "https://img.logo.dev/metlife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 121,
+    "companyName": "Zurich Insurance Group",
+    "logoUrl": "https://img.logo.dev/zurich.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 122,
+    "companyName": "Aviva",
+    "logoUrl": "https://img.logo.dev/aviva.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 123,
+    "companyName": "Alphabet",
+    "logoUrl": "https://img.logo.dev/google.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 124,
+    "companyName": "Marubeni",
+    "logoUrl": "https://img.logo.dev/marubeni.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 125,
+    "companyName": "Banco do Brasil",
+    "logoUrl": "https://img.logo.dev/bb.com.br?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 126,
+    "companyName": "State Farm Insurance Cos.",
+    "logoUrl": "https://img.logo.dev/statefarm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 127,
+    "companyName": "Peugeot",
+    "logoUrl": "https://img.logo.dev/psa-peugeot-citroen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 128,
+    "companyName": "Groupe Auchan",
+    "logoUrl": "https://img.logo.dev/groupe-auchan.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 129,
+    "companyName": "Pertamina",
+    "logoUrl": "https://img.logo.dev/pertamina.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 130,
+    "companyName": "Panasonic",
+    "logoUrl": "https://img.logo.dev/panasonic.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 131,
+    "companyName": "Mitsubishi Corp.",
+    "logoUrl": "https://img.logo.dev/mitsubishicorp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 132,
+    "companyName": "Freddie Mac",
+    "logoUrl": "https://img.logo.dev/freddiemac.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 133,
+    "companyName": "Groupe BPCE",
+    "logoUrl": "https://img.logo.dev/bpce.fr?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 134,
+    "companyName": "Comcast",
+    "logoUrl": "https://img.logo.dev/comcastcorporation.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 135,
+    "companyName": "Vodafone Group",
+    "logoUrl": "https://img.logo.dev/vodafone.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 136,
+    "companyName": "U.S. Postal Service",
+    "logoUrl": "https://img.logo.dev/usps.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 137,
+    "companyName": "Nippon Life Insurance",
+    "logoUrl": "https://img.logo.dev/nissay.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 138,
+    "companyName": "BHP Billiton",
+    "logoUrl": "https://img.logo.dev/bhpbilliton.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 139,
+    "companyName": "Telefonica",
+    "logoUrl": "https://img.logo.dev/telefonica.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 140,
     "companyName": "PepsiCo",
     "logoUrl": "https://img.logo.dev/pepsico.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
+    "id": 141,
+    "companyName": "Dai-ichi Life Insurance",
+    "logoUrl": "https://img.logo.dev/dai-ichi-life.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 142,
+    "companyName": "China Post Group",
+    "logoUrl": "https://img.logo.dev/chinapost.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 143,
+    "companyName": "China North Industries",
+    "logoUrl": "https://img.logo.dev/norincogroup.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 144,
+    "companyName": "Lloyds Banking Group",
+    "logoUrl": "https://img.logo.dev/lloydsbankinggroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 145,
+    "companyName": "Tewoo Group",
+    "logoUrl": "https://img.logo.dev/tewoo.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 146,
+    "companyName": "AEON",
+    "logoUrl": "https://img.logo.dev/aeon.info?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 147,
+    "companyName": "Finatis",
+    "logoUrl": "https://img.logo.dev/finatis.fr?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 148,
+    "companyName": "United Technologies",
+    "logoUrl": "https://img.logo.dev/utc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 149,
+    "companyName": "Bosch",
+    "logoUrl": "https://img.logo.dev/bosch.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 150,
+    "companyName": "Louis Dreyfus Commodities",
+    "logoUrl": "https://img.logo.dev/ldcom.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 151,
+    "companyName": "AIG",
+    "logoUrl": "https://img.logo.dev/aig.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 152,
+    "companyName": "Unilever",
+    "logoUrl": "https://img.logo.dev/unilever.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 153,
+    "companyName": "RWE",
+    "logoUrl": "https://img.logo.dev/rwe.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 154,
+    "companyName": "America Movil",
+    "logoUrl": "https://img.logo.dev/americamovil.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 155,
+    "companyName": "Pacific Construction Group",
+    "logoUrl": "https://img.logo.dev/cpcg.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 156,
+    "companyName": "Toshiba",
+    "logoUrl": "https://img.logo.dev/toshiba.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 157,
+    "companyName": "Reliance Industries",
+    "logoUrl": "https://img.logo.dev/ril.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 158,
+    "companyName": "Aviation Industry Corp. of China",
+    "logoUrl": "https://img.logo.dev/avic.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 159,
+    "companyName": "China Telecommunications",
+    "logoUrl": "https://img.logo.dev/chinatelecom.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 160,
+    "companyName": "Tokyo Electric Power",
+    "logoUrl": "https://img.logo.dev/tepco.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 161,
+    "companyName": "POSCO",
+    "logoUrl": "https://img.logo.dev/posco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 162,
+    "companyName": "Aegon",
+    "logoUrl": "https://img.logo.dev/aegon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 163,
+    "companyName": "Deutsche Bank",
+    "logoUrl": "https://img.logo.dev/deutsche-bank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 164,
+    "companyName": "China Communications Construction",
+    "logoUrl": "https://img.logo.dev/ccccltd.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 165,
+    "companyName": "CNP Assurances",
+    "logoUrl": "https://img.logo.dev/cnp.fr?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 166,
+    "companyName": "Novartis",
+    "logoUrl": "https://img.logo.dev/novartis.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 167,
+    "companyName": "UPS",
+    "logoUrl": "https://img.logo.dev/ups.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 168,
+    "companyName": "Dow Chemical",
+    "logoUrl": "https://img.logo.dev/dow.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 169,
+    "companyName": "Aetna",
+    "logoUrl": "https://img.logo.dev/aetna.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 170,
+    "companyName": "Wesfarmers",
+    "logoUrl": "https://img.logo.dev/wesfarmers.com.au?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 171,
+    "companyName": "Bunge",
+    "logoUrl": "https://img.logo.dev/bunge.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 172,
+    "companyName": "Intesa Sanpaolo",
+    "logoUrl": "https://img.logo.dev/group.intesasanpaolo.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 173,
+    "companyName": "People's Insurance Co. of China",
+    "logoUrl": "https://img.logo.dev/picc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 174,
+    "companyName": "LG Electronics",
+    "logoUrl": "https://img.logo.dev/lg.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 175,
+    "companyName": "Lowe's",
+    "logoUrl": "https://img.logo.dev/lowes.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
     "id": 176,
+    "companyName": "Sberbank",
+    "logoUrl": "https://img.logo.dev/sberbank.ru?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 177,
+    "companyName": "Bayer",
+    "logoUrl": "https://img.logo.dev/bayer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 178,
+    "companyName": "ThyssenKrupp",
+    "logoUrl": "https://img.logo.dev/thyssenkrupp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 179,
+    "companyName": "ConocoPhillips",
+    "logoUrl": "https://img.logo.dev/conocophillips.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 180,
+    "companyName": "Woolworths",
+    "logoUrl": "https://img.logo.dev/woolworthslimited.com.au?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 181,
+    "companyName": "Intel",
+    "logoUrl": "https://img.logo.dev/intel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 182,
+    "companyName": "Energy Transfer Equity",
+    "logoUrl": "https://img.logo.dev/energytransfer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 183,
+    "companyName": "Seven and I Holdings",
+    "logoUrl": "https://img.logo.dev/7andi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 184,
+    "companyName": "Banco Bradesco",
+    "logoUrl": "https://img.logo.dev/bradesco.com.br?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 185,
+    "companyName": "CITIC Group",
+    "logoUrl": "https://img.logo.dev/citicgroup.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 186,
+    "companyName": "Caterpillar",
+    "logoUrl": "https://img.logo.dev/caterpillar.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 187,
+    "companyName": "Repsol",
+    "logoUrl": "https://img.logo.dev/repsol.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 188,
+    "companyName": "Roche Group",
+    "logoUrl": "https://img.logo.dev/roche.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 189,
+    "companyName": "Bank of Communications",
+    "logoUrl": "https://img.logo.dev/bankcomm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 190,
+    "companyName": "Renault",
+    "logoUrl": "https://img.logo.dev/renault.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 191,
+    "companyName": "Saint-Gobain",
+    "logoUrl": "https://img.logo.dev/saint-gobain.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 192,
+    "companyName": "Korea Electric Power",
+    "logoUrl": "https://img.logo.dev/kepco.co.kr?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 193,
+    "companyName": "Prudential Financial",
+    "logoUrl": "https://img.logo.dev/prudential.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 194,
+    "companyName": "Barclays",
+    "logoUrl": "https://img.logo.dev/barclays.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 195,
+    "companyName": "Shenhua Group",
+    "logoUrl": "https://img.logo.dev/shenhuagroup.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 196,
+    "companyName": "Deutsche Bahn",
+    "logoUrl": "https://img.logo.dev/deutschebahn.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 197,
+    "companyName": "China Minmetals",
+    "logoUrl": "https://img.logo.dev/minmetals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 198,
+    "companyName": "Orange",
+    "logoUrl": "https://img.logo.dev/orange.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 199,
+    "companyName": "Vinci",
+    "logoUrl": "https://img.logo.dev/vinci.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 200,
+    "companyName": "Mitsubishi UFJ Financial Group",
+    "logoUrl": "https://img.logo.dev/mufg.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 201,
+    "companyName": "JBS",
+    "logoUrl": "https://img.logo.dev/jbs.com.br?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 202,
+    "companyName": "ACS",
+    "logoUrl": "https://img.logo.dev/grupoacs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 203,
+    "companyName": "Nippon Steel and Sumitomo Metal",
+    "logoUrl": "https://img.logo.dev/nssmc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 204,
+    "companyName": "SSE",
+    "logoUrl": "https://img.logo.dev/sse.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 205,
+    "companyName": "Itochu",
+    "logoUrl": "https://img.logo.dev/itochu.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 206,
+    "companyName": "Beijing Automotive Group",
+    "logoUrl": "https://img.logo.dev/baicgroup.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 207,
+    "companyName": "AP Moller Marsk",
+    "logoUrl": "https://img.logo.dev/maersk.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 208,
+    "companyName": "SABIC",
+    "logoUrl": "https://img.logo.dev/sabic.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 209,
+    "companyName": "Hyundai Heavy Industries",
+    "logoUrl": "https://img.logo.dev/hyundaiheavy.com/?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 210,
+    "companyName": "Pfizer",
+    "logoUrl": "https://img.logo.dev/pfizer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 211,
+    "companyName": "Manulife Financial",
+    "logoUrl": "https://img.logo.dev/manulife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 212,
+    "companyName": "Mitsui",
+    "logoUrl": "https://img.logo.dev/mitsui.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 213,
+    "companyName": "Walt Disney",
+    "logoUrl": "https://img.logo.dev/disney.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 214,
+    "companyName": "Schlumberger",
+    "logoUrl": "https://img.logo.dev/slb.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 215,
+    "companyName": "Humana",
+    "logoUrl": "https://img.logo.dev/humana.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 216,
+    "companyName": "Centrica",
+    "logoUrl": "https://img.logo.dev/centrica.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 217,
+    "companyName": "Baosteel Group",
+    "logoUrl": "https://img.logo.dev/baosteel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 218,
+    "companyName": "International Petroleum Investment",
+    "logoUrl": "https://img.logo.dev/ipic.ae?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 219,
+    "companyName": "Enterprise Products",
+    "logoUrl": "https://img.logo.dev/enterpriseproducts.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 220,
+    "companyName": "Banco Bilbao Vizcaya Argentaria",
+    "logoUrl": "https://img.logo.dev/bbva.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 221,
+    "companyName": "Rio Tinto Group",
+    "logoUrl": "https://img.logo.dev/riotinto.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 222,
+    "companyName": "OMV Group",
+    "logoUrl": "https://img.logo.dev/omv.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 223,
+    "companyName": "China Huaneng Group",
+    "logoUrl": "https://img.logo.dev/chng.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 224,
     "companyName": "Cisco Systems",
     "logoUrl": "https://img.logo.dev/cisco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 177,
-    "companyName": "Merck and Co",
-    "logoUrl": "https://img.logo.dev/merck.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 225,
+    "companyName": "Anheuser-Busch InBev",
+    "logoUrl": "https://img.logo.dev/ab-inbev.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 178,
-    "companyName": "Salesforce",
-    "logoUrl": "https://img.logo.dev/salesforce.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 226,
+    "companyName": "China United Network Communications",
+    "logoUrl": "https://img.logo.dev/chinaunicom-a.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 179,
-    "companyName": "IBM Corporation",
-    "logoUrl": "https://img.logo.dev/ibm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 227,
+    "companyName": "Huawei Investment and Holding",
+    "logoUrl": "https://img.logo.dev/huawei.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 180,
-    "companyName": "Adobe",
-    "logoUrl": "https://img.logo.dev/adobe.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 228,
+    "companyName": "Sysco",
+    "logoUrl": "https://img.logo.dev/sysco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 181,
-    "companyName": "Qualcomm Incorporated",
-    "logoUrl": "https://img.logo.dev/qualcomm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 229,
+    "companyName": "Ingram Micro",
+    "logoUrl": "https://img.logo.dev/ingrammicro.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 182,
-    "companyName": "Starbucks Corporation",
-    "logoUrl": "https://img.logo.dev/starbucks.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 230,
+    "companyName": "Lenovo Group",
+    "logoUrl": "https://img.logo.dev/lenovo.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 183,
-    "companyName": "Boeing name",
-    "logoUrl": "https://img.logo.dev/boeing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 231,
+    "companyName": "Coca-Cola",
+    "logoUrl": "https://img.logo.dev/coca-colacompany.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 184,
-    "companyName": "Amgen",
-    "logoUrl": "https://img.logo.dev/amgen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 232,
+    "companyName": "Continental",
+    "logoUrl": "https://img.logo.dev/continental-corporation.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 185,
-    "companyName": "Texas Instruments Incorporated",
-    "logoUrl": "https://img.logo.dev/ti.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 233,
+    "companyName": "Shandong Weiqiao Pioneering",
+    "logoUrl": "https://img.logo.dev/weiqiaocy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 186,
-    "companyName": "3M name",
-    "logoUrl": "https://img.logo.dev/3m.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 234,
+    "companyName": "China Merchants Bank",
+    "logoUrl": "https://img.logo.dev/cmbchina.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 187,
-    "companyName": "Union Pacific Corporation",
-    "logoUrl": "https://img.logo.dev/up.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 235,
+    "companyName": "LyondellBasell Industries",
+    "logoUrl": "https://img.logo.dev/lyb.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 188,
-    "companyName": "Goldman Sachs Group",
-    "logoUrl": "https://img.logo.dev/goldmansachs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
-  },
-  {
-    "id": 189,
-    "companyName": "Lockheed Martin Corporation",
+    "id": 236,
+    "companyName": "Lockheed Martin",
     "logoUrl": "https://img.logo.dev/lockheedmartin.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 190,
-    "companyName": "General Electric name",
-    "logoUrl": "https://img.logo.dev/ge.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 237,
+    "companyName": "FedEx",
+    "logoUrl": "https://img.logo.dev/fedex.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 191,
-    "companyName": "Bristol-Myers Squibb name",
-    "logoUrl": "https://img.logo.dev/bms.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 238,
+    "companyName": "HeBei Iron and Steel Group",
+    "logoUrl": "https://img.logo.dev/hebgtjt.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 192,
-    "companyName": "Charter Communications",
-    "logoUrl": "https://img.logo.dev/charter.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 239,
+    "companyName": "Aluminum Corp of China",
+    "logoUrl": "https://img.logo.dev/chalco.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 193,
-    "companyName": "American Tower Corporation",
-    "logoUrl": "https://img.logo.dev/americantower.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 240,
+    "companyName": "Sanofi",
+    "logoUrl": "https://img.logo.dev/sanofi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 194,
-    "companyName": "Caterpillar ",
-    "logoUrl": "https://img.logo.dev/caterpillar.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 241,
+    "companyName": "Kia Motors",
+    "logoUrl": "https://img.logo.dev/kia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 195,
-    "companyName": "BlackRock",
-    "logoUrl": "https://img.logo.dev/blackrock.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 242,
+    "companyName": "Sumitomo Mitsui Financial Group",
+    "logoUrl": "https://img.logo.dev/smfg.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 196,
-    "companyName": "Northrop Grumman Corporation",
-    "logoUrl": "https://img.logo.dev/northropgrumman.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 243,
+    "companyName": "Bouygues",
+    "logoUrl": "https://img.logo.dev/bouygues.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 197,
+    "id": 244,
+    "companyName": "Johnson Controls",
+    "logoUrl": "https://img.logo.dev/johnsoncontrols.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 245,
+    "companyName": "UniCredit Group",
+    "logoUrl": "https://img.logo.dev/unicreditgroup.eu?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 246,
+    "companyName": "Amer International Group",
+    "logoUrl": "https://img.logo.dev/amer.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 247,
+    "companyName": "Royal Ahold",
+    "logoUrl": "https://img.logo.dev/ahold.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 248,
+    "companyName": "Plains GP Holdings",
+    "logoUrl": "https://img.logo.dev/plainsallamerican.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 249,
+    "companyName": "World Fuel Services",
+    "logoUrl": "https://img.logo.dev/wfscorp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 250,
+    "companyName": "Fujitsu",
+    "logoUrl": "https://img.logo.dev/fujitsu.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 251,
+    "companyName": "Wilmar International",
+    "logoUrl": "https://img.logo.dev/wilmar-international.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 252,
+    "companyName": "Power China",
+    "logoUrl": "https://img.logo.dev/powerchina.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 253,
+    "companyName": "Tata Motors",
+    "logoUrl": "https://img.logo.dev/tatamotors.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 254,
+    "companyName": "CHS",
+    "logoUrl": "https://img.logo.dev/chsinc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 255,
+    "companyName": "MSandAD Insurance",
+    "logoUrl": "https://img.logo.dev/ms-ad-hd.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 256,
+    "companyName": "American Airlines Group",
+    "logoUrl": "https://img.logo.dev/aa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 257,
+    "companyName": "Greenland Holding Group",
+    "logoUrl": "https://img.logo.dev/ldjt.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 258,
+    "companyName": "Merck",
+    "logoUrl": "https://img.logo.dev/merck.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 259,
+    "companyName": "State Bank of India",
+    "logoUrl": "https://img.logo.dev/sbi.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 260,
+    "companyName": "Christian Dior",
+    "logoUrl": "https://img.logo.dev/dior-finance.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 261,
+    "companyName": "Best Buy",
+    "logoUrl": "https://img.logo.dev/bestbuy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 262,
+    "companyName": "Meiji Yasuda Life Insurance",
+    "logoUrl": "https://img.logo.dev/meijiyasuda.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 263,
+    "companyName": "Shanxi Coking Coal Group",
+    "logoUrl": "https://img.logo.dev/sxcc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 264,
+    "companyName": "ChemChina",
+    "logoUrl": "https://img.logo.dev/chemchina.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 265,
+    "companyName": "National Australia Bank",
+    "logoUrl": "https://img.logo.dev/nabgroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 266,
+    "companyName": "KDDI",
+    "logoUrl": "https://img.logo.dev/kddi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 267,
+    "companyName": "Volvo",
+    "logoUrl": "https://img.logo.dev/volvogroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 268,
+    "companyName": "Commonwealth Bank",
+    "logoUrl": "https://img.logo.dev/commbank.com.au?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 269,
+    "companyName": "China National Bldg. Materials Group",
+    "logoUrl": "https://img.logo.dev/cnbm.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 270,
+    "companyName": "Industrial Bank",
+    "logoUrl": "https://img.logo.dev/cib.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 271,
+    "companyName": "COFCO",
+    "logoUrl": "https://img.logo.dev/cofco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 272,
     "companyName": "Delta Air Lines",
     "logoUrl": "https://img.logo.dev/delta.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 198,
-    "companyName": "T-Mobile US",
-    "logoUrl": "https://img.logo.dev/t-mobile.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 273,
+    "companyName": "Jiangsu Shagang Group",
+    "logoUrl": "https://img.logo.dev/shasteel.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 199,
-    "companyName": "Eli Lilly and name",
-    "logoUrl": "https://img.logo.dev/lilly.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 274,
+    "companyName": "Honeywell International",
+    "logoUrl": "https://img.logo.dev/honeywell.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 200,
-    "companyName": "Kraft Heinz name",
-    "logoUrl": "https://img.logo.dev/kraftheinzname.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 275,
+    "companyName": "Sinopharm",
+    "logoUrl": "https://img.logo.dev/sinopharm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 201,
-    "companyName": "Costco Wholesale Corporation",
-    "logoUrl": "https://img.logo.dev/costco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 276,
+    "companyName": "HCA Holdings",
+    "logoUrl": "https://img.logo.dev/hcahealthcare.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 202,
-    "companyName": "Lowe's Companies",
-    "logoUrl": "https://img.logo.dev/lowes.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 277,
+    "companyName": "Goldman Sachs Group",
+    "logoUrl": "https://img.logo.dev/gs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 203,
-    "companyName": "TJX Companies",
-    "logoUrl": "https://img.logo.dev/tjx.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 278,
+    "companyName": "Tesoro",
+    "logoUrl": "https://img.logo.dev/tsocorp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 204,
-    "companyName": "General Motors name",
-    "logoUrl": "https://img.logo.dev/gm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 279,
+    "companyName": "Bharat Petroleum",
+    "logoUrl": "https://img.logo.dev/bharatpetroleum.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 205,
-    "companyName": "Biogen",
-    "logoUrl": "https://img.logo.dev/biogen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 280,
+    "companyName": "China Minsheng Banking",
+    "logoUrl": "https://img.logo.dev/cmbc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 206,
-    "companyName": "American Express name",
+    "id": 281,
+    "companyName": "Jardine Matheson",
+    "logoUrl": "https://img.logo.dev/jardines.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 282,
+    "companyName": "Iberdrola",
+    "logoUrl": "https://img.logo.dev/iberdrola.es?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 283,
+    "companyName": "ABB",
+    "logoUrl": "https://img.logo.dev/abb.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 284,
+    "companyName": "Lufthansa Group",
+    "logoUrl": "https://img.logo.dev/lufthansagroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 285,
+    "companyName": "Liberty Mutual Insurance Group",
+    "logoUrl": "https://img.logo.dev/libertymutual.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 286,
+    "companyName": "Weston",
+    "logoUrl": "https://img.logo.dev/weston.ca?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 287,
+    "companyName": "Sinomach",
+    "logoUrl": "https://img.logo.dev/sinomach.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 288,
+    "companyName": "Credit Suisse Group",
+    "logoUrl": "https://img.logo.dev/credit-suisse.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 289,
+    "companyName": "Tokio Marine Holdings",
+    "logoUrl": "https://img.logo.dev/tokiomarinehd.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 290,
+    "companyName": "Mitsubishi Electric",
+    "logoUrl": "https://img.logo.dev/mitsubishielectric.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 291,
+    "companyName": "Talanx",
+    "logoUrl": "https://img.logo.dev/talanx.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 292,
+    "companyName": "Denso",
+    "logoUrl": "https://img.logo.dev/globaldenso.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 293,
+    "companyName": "United Continental Holdings",
+    "logoUrl": "https://img.logo.dev/unitedcontinentalholdings.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 294,
+    "companyName": "DZ Bank",
+    "logoUrl": "https://img.logo.dev/dzbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 295,
+    "companyName": "Shanghai Pudong Devel. Bank",
+    "logoUrl": "https://img.logo.dev/spdb.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 296,
+    "companyName": "New York Life Insurance",
+    "logoUrl": "https://img.logo.dev/newyorklife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 297,
+    "companyName": "Power Corp. of Canada",
+    "logoUrl": "https://img.logo.dev/powercorporation.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 298,
+    "companyName": "Royal Bank of Canada",
+    "logoUrl": "https://img.logo.dev/rbc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 299,
+    "companyName": "Oracle",
+    "logoUrl": "https://img.logo.dev/oracle.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 300,
+    "companyName": "Sainsbury's",
+    "logoUrl": "https://img.logo.dev/j-sainsbury.co.uk?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 301,
+    "companyName": "GS Caltex",
+    "logoUrl": "https://img.logo.dev/gscaltex.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 302,
+    "companyName": "Royal Bank of Scotland Group",
+    "logoUrl": "https://img.logo.dev/rbs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 303,
+    "companyName": "Bohai Steel Group",
+    "logoUrl": "https://img.logo.dev/bohaisteel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 304,
+    "companyName": "Alimentation Couche-Tard",
+    "logoUrl": "https://img.logo.dev/couche-tard.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 305,
+    "companyName": "Morgan Stanley",
+    "logoUrl": "https://img.logo.dev/morganstanley.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 306,
+    "companyName": "Idemitsu Kosan",
+    "logoUrl": "https://img.logo.dev/idemitsu.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 307,
+    "companyName": "UBS Group",
+    "logoUrl": "https://img.logo.dev/ubs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 308,
+    "companyName": "GlaxoSmithKline",
+    "logoUrl": "https://img.logo.dev/gsk.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 309,
+    "companyName": "Poste Italiane",
+    "logoUrl": "https://img.logo.dev/poste.it?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 310,
+    "companyName": "Tyson Foods",
+    "logoUrl": "https://img.logo.dev/tysonfoods.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 311,
+    "companyName": "Vale",
+    "logoUrl": "https://img.logo.dev/vale.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 312,
+    "companyName": "Swiss Re",
+    "logoUrl": "https://img.logo.dev/swissre.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 313,
+    "companyName": "Edeka Zentrale",
+    "logoUrl": "https://img.logo.dev/edeka-verbund.de?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 314,
+    "companyName": "Jizhong Energy Group",
+    "logoUrl": "https://img.logo.dev/jznyjt.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 315,
+    "companyName": "CPC",
+    "logoUrl": "https://img.logo.dev/cpc.com.tw?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 316,
+    "companyName": "Suncor Energy",
+    "logoUrl": "https://img.logo.dev/suncor.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 317,
+    "companyName": "Magna International",
+    "logoUrl": "https://img.logo.dev/magna.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 318,
+    "companyName": "Mitsubishi Heavy Industries",
+    "logoUrl": "https://img.logo.dev/mhi-global.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 319,
+    "companyName": "Nationwide",
+    "logoUrl": "https://img.logo.dev/nationwide.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 320,
+    "companyName": "China National Aviation Fuel Group",
+    "logoUrl": "https://img.logo.dev/cnaf.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 321,
+    "companyName": "SNCF",
+    "logoUrl": "https://img.logo.dev/sncf.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 322,
+    "companyName": "Deere",
+    "logoUrl": "https://img.logo.dev/johndeere.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 323,
+    "companyName": "DuPont",
+    "logoUrl": "https://img.logo.dev/dupont.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 324,
+    "companyName": "American Express",
     "logoUrl": "https://img.logo.dev/americanexpress.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 207,
-    "companyName": "Booking Holdings",
-    "logoUrl": "https://img.logo.dev/bookingholdings.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 325,
+    "companyName": "China Metallurgical Group",
+    "logoUrl": "https://img.logo.dev/mcc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 208,
-    "companyName": "Activision Blizzard",
-    "logoUrl": "https://img.logo.dev/activisionblizzard.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 326,
+    "companyName": "Hindustan Petroleum",
+    "logoUrl": "https://img.logo.dev/hindustanpetroleum.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 209,
-    "companyName": "Illumina",
-    "logoUrl": "https://img.logo.dev/illumina.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 327,
+    "companyName": "China Pacific Insurance",
+    "logoUrl": "https://img.logo.dev/cpic.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 210,
+    "id": 328,
+    "companyName": "Hanwha",
+    "logoUrl": "https://img.logo.dev/hanwhacorp.co.kr?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 329,
+    "companyName": "Westpac Banking",
+    "logoUrl": "https://img.logo.dev/westpac.com.au?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 330,
+    "companyName": "Achmea",
+    "logoUrl": "https://img.logo.dev/achmea.nl?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 331,
+    "companyName": "Korea Gas",
+    "logoUrl": "https://img.logo.dev/kogas.or.kr?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 332,
+    "companyName": "Allstate",
+    "logoUrl": "https://img.logo.dev/allstate.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 333,
+    "companyName": "Canon",
+    "logoUrl": "https://img.logo.dev/canon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 334,
+    "companyName": "Standard Life",
+    "logoUrl": "https://img.logo.dev/standardlife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 335,
+    "companyName": "Hutchison Whampoa",
+    "logoUrl": "https://img.logo.dev/hutchison-whampoa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 336,
+    "companyName": "JFE Holdings",
+    "logoUrl": "https://img.logo.dev/jfe-holdings.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 337,
+    "companyName": "Cigna",
+    "logoUrl": "https://img.logo.dev/cigna.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 338,
+    "companyName": "Zhejiang Materials Industry Group",
+    "logoUrl": "https://img.logo.dev/zjmi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 339,
+    "companyName": "Bridgestone",
+    "logoUrl": "https://img.logo.dev/bridgestone.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 340,
+    "companyName": "Datong Coal Mine Group",
+    "logoUrl": "https://img.logo.dev/dtcoalmine.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 341,
+    "companyName": "CEFC China Energy",
+    "logoUrl": "https://img.logo.dev/cefc.co?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 342,
+    "companyName": "China Guodian",
+    "logoUrl": "https://img.logo.dev/cgdc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 343,
+    "companyName": "Xinxing Cathay International",
+    "logoUrl": "https://img.logo.dev/english.xxcig.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 344,
+    "companyName": "China Huadian",
+    "logoUrl": "https://img.logo.dev/chd.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 345,
+    "companyName": "Ecopetrol",
+    "logoUrl": "https://img.logo.dev/ecopetrol.com.co?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 346,
+    "companyName": "Hyundai Mobis",
+    "logoUrl": "https://img.logo.dev/mobis.co.kr?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 347,
     "companyName": "Mondelez International",
     "logoUrl": "https://img.logo.dev/mondelezinternational.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 211,
-    "companyName": "Novartis AG",
-    "logoUrl": "https://img.logo.dev/novartis.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 348,
+    "companyName": "TIAA-CREF",
+    "logoUrl": "https://img.logo.dev/tiaa-cref.org?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 212,
-    "companyName": "FedEx Corporation",
-    "logoUrl": "https://img.logo.dev/fedex.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+    "id": 349,
+    "companyName": "Sumitomo",
+    "logoUrl": "https://img.logo.dev/sumitomocorp.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 213,
-    "companyName": "Salesforce",
+    "id": 350,
+    "companyName": "Enbridge",
+    "logoUrl": "https://img.logo.dev/enbridge.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 351,
+    "companyName": "INTL FCStone",
+    "logoUrl": "https://img.logo.dev/intlfcstone.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 352,
+    "companyName": "PKN ORLEN Group",
+    "logoUrl": "https://img.logo.dev/orlen.pl?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 353,
+    "companyName": "Jiangxi Copper",
+    "logoUrl": "https://img.logo.dev/jxcc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 354,
+    "companyName": "Pegatron",
+    "logoUrl": "https://img.logo.dev/pegatroncorp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 355,
+    "companyName": "Massachusetts Mutual Life",
+    "logoUrl": "https://img.logo.dev/massmutual.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 356,
+    "companyName": "Toronto-Dominion Bank",
+    "logoUrl": "https://img.logo.dev/td.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 357,
+    "companyName": "Shanxi LuAn Mining Group",
+    "logoUrl": "https://img.logo.dev/cnluan.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 358,
+    "companyName": "Telecom Italia",
+    "logoUrl": "https://img.logo.dev/telecomitalia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 359,
+    "companyName": "DirecTV",
+    "logoUrl": "https://img.logo.dev/directv.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 360,
+    "companyName": "Mitsubishi Chemical Holdings",
+    "logoUrl": "https://img.logo.dev/mitsubishichem-hd.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 361,
+    "companyName": "Guangzhou Automobile Industry Group",
+    "logoUrl": "https://img.logo.dev/gaig.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 362,
+    "companyName": "Ericsson",
+    "logoUrl": "https://img.logo.dev/ericsson.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 363,
+    "companyName": "Henan Energy and Chemical",
+    "logoUrl": "https://img.logo.dev/hnecgc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 364,
+    "companyName": "Air France-KLM Group",
+    "logoUrl": "https://img.logo.dev/airfranceklm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 365,
+    "companyName": "China Electronics",
+    "logoUrl": "https://img.logo.dev/cec.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 366,
+    "companyName": "Schneider Electric",
+    "logoUrl": "https://img.logo.dev/schneider-electric.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 367,
+    "companyName": "Australia and New Zeal. Bnkg.",
+    "logoUrl": "https://img.logo.dev/anz.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 368,
+    "companyName": "Halliburton",
+    "logoUrl": "https://img.logo.dev/halliburton.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 369,
+    "companyName": "Gas Natural Fenosa",
+    "logoUrl": "https://img.logo.dev/gasnaturalfenosa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 370,
+    "companyName": "China Shipbuilding Industry",
+    "logoUrl": "https://img.logo.dev/csic.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 371,
+    "companyName": "Sumitomo Life Insurance",
+    "logoUrl": "https://img.logo.dev/sumitomolife.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 372,
+    "companyName": "Shandong Energy Group",
+    "logoUrl": "https://img.logo.dev/snjt.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 373,
+    "companyName": "Accenture",
+    "logoUrl": "https://img.logo.dev/accenture.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 374,
+    "companyName": "Twenty-First Century Fox",
+    "logoUrl": "https://img.logo.dev/21cf.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 375,
+    "companyName": "Veolia Environnement",
+    "logoUrl": "https://img.logo.dev/veolia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 376,
+    "companyName": "3M",
+    "logoUrl": "https://img.logo.dev/3m.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 377,
+    "companyName": "CFE",
+    "logoUrl": "https://img.logo.dev/cfe.gob.mx?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 378,
+    "companyName": "Shanxi Jincheng Anthracite Coal Mining",
+    "logoUrl": "https://img.logo.dev/jamg.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 379,
+    "companyName": "Shaanxi Yanchang Petroleum",
+    "logoUrl": "https://img.logo.dev/sxycpc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 380,
+    "companyName": "Koç Holding",
+    "logoUrl": "https://img.logo.dev/koc.com.tr?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 381,
+    "companyName": "Jinneng Group",
+    "logoUrl": "https://img.logo.dev/jinnengjt.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 382,
+    "companyName": "Sears Holdings",
+    "logoUrl": "https://img.logo.dev/searsholdings.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 383,
+    "companyName": "Kansai Electric Power",
+    "logoUrl": "https://img.logo.dev/kepco.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 384,
+    "companyName": "Royal Philips",
+    "logoUrl": "https://img.logo.dev/philips.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 385,
+    "companyName": "General Dynamics",
+    "logoUrl": "https://img.logo.dev/generaldynamics.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 386,
+    "companyName": "Fresenius",
+    "logoUrl": "https://img.logo.dev/fresenius.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 387,
+    "companyName": "Publix Super Markets",
+    "logoUrl": "https://img.logo.dev/publix.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 388,
+    "companyName": "Quanta Computer",
+    "logoUrl": "https://img.logo.dev/quantatw.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 389,
+    "companyName": "China Nonferrous Metal Mining",
+    "logoUrl": "https://img.logo.dev/cnmc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 390,
+    "companyName": "China Energy Engineering",
+    "logoUrl": "https://img.logo.dev/ceec.net.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 391,
+    "companyName": "China Datang",
+    "logoUrl": "https://img.logo.dev/china-cdt.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 392,
+    "companyName": "Formosa Petrochemical",
+    "logoUrl": "https://img.logo.dev/fpcc.com.tw?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 393,
+    "companyName": "Rabobank",
+    "logoUrl": "https://img.logo.dev/rabobank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 394,
+    "companyName": "L'Oreal",
+    "logoUrl": "https://img.logo.dev/loreal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 395,
+    "companyName": "Sompo Japan Nipponkoa",
+    "logoUrl": "https://img.logo.dev/sompo-hd.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 396,
+    "companyName": "Migros Group",
+    "logoUrl": "https://img.logo.dev/migros.ch?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 397,
+    "companyName": "Philip Morris International",
+    "logoUrl": "https://img.logo.dev/pmi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 398,
+    "companyName": "Mapfre Group",
+    "logoUrl": "https://img.logo.dev/mapfre.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 399,
+    "companyName": "Kailuan Group",
+    "logoUrl": "https://img.logo.dev/kailuan.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 400,
+    "companyName": "Coop Group",
+    "logoUrl": "https://img.logo.dev/coop.ch?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 401,
+    "companyName": "Shougang Group",
+    "logoUrl": "https://img.logo.dev/shougang.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 402,
+    "companyName": "China Power Investment",
+    "logoUrl": "https://img.logo.dev/cpicorp.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 403,
+    "companyName": "VTB Bank",
+    "logoUrl": "https://img.logo.dev/vtb.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 404,
+    "companyName": "Phoenix Pharmahandel",
+    "logoUrl": "https://img.logo.dev/phoenixgroup.eu?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 405,
+    "companyName": "Unipol",
+    "logoUrl": "https://img.logo.dev/unipol.it?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 406,
+    "companyName": "Delhaize Group",
+    "logoUrl": "https://img.logo.dev/delhaizegroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 407,
+    "companyName": "La Poste",
+    "logoUrl": "https://img.logo.dev/laposte.fr?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 408,
+    "companyName": "Yangquan Coal Industry Group",
+    "logoUrl": "https://img.logo.dev/ymjt.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 409,
+    "companyName": "TJX",
+    "logoUrl": "https://img.logo.dev/tjx.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 410,
+    "companyName": "BT Group",
+    "logoUrl": "https://img.logo.dev/bt.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 411,
+    "companyName": "Mizuho Financial Group",
+    "logoUrl": "https://img.logo.dev/mizuho-fg.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 412,
+    "companyName": "Vivendi",
+    "logoUrl": "https://img.logo.dev/vivendi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 413,
+    "companyName": "Ultrapar Holdings",
+    "logoUrl": "https://img.logo.dev/ultra.com.br?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 414,
+    "companyName": "Time Warner",
+    "logoUrl": "https://img.logo.dev/timewarner.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 415,
+    "companyName": "Shaanxi Coal and Chemical Industry",
+    "logoUrl": "https://img.logo.dev/shccig.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 416,
+    "companyName": "Bank of Nova Scotia",
+    "logoUrl": "https://img.logo.dev/scotiabank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 417,
+    "companyName": "Compass Group",
+    "logoUrl": "https://img.logo.dev/compass-group.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 418,
+    "companyName": "Chubu Electric Power",
+    "logoUrl": "https://img.logo.dev/chuden.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 419,
+    "companyName": "China Everbright Group",
+    "logoUrl": "https://img.logo.dev/ebchina.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 420,
+    "companyName": "Macy's",
+    "logoUrl": "https://img.logo.dev/macysinc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 421,
+    "companyName": "Danone",
+    "logoUrl": "https://img.logo.dev/danone.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 422,
+    "companyName": "Compal Electronics",
+    "logoUrl": "https://img.logo.dev/compal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 423,
+    "companyName": "Energie Baden-Württemberg",
+    "logoUrl": "https://img.logo.dev/enbw.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 424,
+    "companyName": "Nike",
+    "logoUrl": "https://img.logo.dev/nike.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 425,
+    "companyName": "China General Technology",
+    "logoUrl": "https://img.logo.dev/genertec.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 426,
+    "companyName": "Tech Data",
+    "logoUrl": "https://img.logo.dev/techdata.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 427,
+    "companyName": "TonenGeneral Sekiyu",
+    "logoUrl": "https://img.logo.dev/tonengeneral.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 428,
+    "companyName": "Mazda Motor",
+    "logoUrl": "https://img.logo.dev/mazda.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 429,
+    "companyName": "Avnet",
+    "logoUrl": "https://img.logo.dev/avnet.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 430,
+    "companyName": "Morrisons",
+    "logoUrl": "https://img.logo.dev/morrisons.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 431,
+    "companyName": "China Ocean Shipping",
+    "logoUrl": "https://img.logo.dev/cosco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 432,
+    "companyName": "Northwestern Mutual",
+    "logoUrl": "https://img.logo.dev/northwesternmutual.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 433,
+    "companyName": "McDonald's",
+    "logoUrl": "https://img.logo.dev/aboutmcdonalds.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 434,
+    "companyName": "Exelon",
+    "logoUrl": "https://img.logo.dev/exeloncorp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 435,
+    "companyName": "Suzuki Motor",
+    "logoUrl": "https://img.logo.dev/globalsuzuki.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 436,
+    "companyName": "China Aerospace Science and Technology",
+    "logoUrl": "https://img.logo.dev/spacechina.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 437,
+    "companyName": "Travelers",
+    "logoUrl": "https://img.logo.dev/travelers.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 438,
+    "companyName": "S-Oil",
+    "logoUrl": "https://img.logo.dev/s-oil.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 439,
+    "companyName": "Anglo American",
+    "logoUrl": "https://img.logo.dev/angloamerican.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 440,
+    "companyName": "Samsung CandT",
+    "logoUrl": "https://img.logo.dev/samsungcnt.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 441,
+    "companyName": "Aisin Seiki",
+    "logoUrl": "https://img.logo.dev/aisin.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 442,
+    "companyName": "International Airlines Group",
+    "logoUrl": "https://img.logo.dev/iairgroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 443,
+    "companyName": "NEC",
+    "logoUrl": "https://img.logo.dev/nec.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 444,
+    "companyName": "Lotte Shopping",
+    "logoUrl": "https://img.logo.dev/lotteshopping.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 445,
+    "companyName": "Adecco Group",
+    "logoUrl": "https://img.logo.dev/adecco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 446,
+    "companyName": "Rite Aid",
+    "logoUrl": "https://img.logo.dev/riteaid.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 447,
+    "companyName": "Qualcomm",
+    "logoUrl": "https://img.logo.dev/qualcomm.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 448,
+    "companyName": "Oil and Natural Gas",
+    "logoUrl": "https://img.logo.dev/ongcindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 449,
+    "companyName": "International Paper",
+    "logoUrl": "https://img.logo.dev/internationalpaper.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 450,
+    "companyName": "Ansteel Group",
+    "logoUrl": "https://img.logo.dev/ansteel.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 451,
+    "companyName": "Fuji Heavy Industries",
+    "logoUrl": "https://img.logo.dev/fhi.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 452,
+    "companyName": "Flextronics International",
+    "logoUrl": "https://img.logo.dev/flextronics.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 453,
+    "companyName": "Medipal Holdings",
+    "logoUrl": "https://img.logo.dev/medipal.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 454,
+    "companyName": "AstraZeneca",
+    "logoUrl": "https://img.logo.dev/astrazeneca.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 455,
+    "companyName": "Samsung Life Insurance",
+    "logoUrl": "https://img.logo.dev/samsunglife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 456,
+    "companyName": "China Poly Group",
+    "logoUrl": "https://img.logo.dev/poly.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 457,
+    "companyName": "Michelin",
+    "logoUrl": "https://img.logo.dev/michelin.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 458,
+    "companyName": "Occidental Petroleum",
+    "logoUrl": "https://img.logo.dev/oxy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 459,
+    "companyName": "GasTerra",
+    "logoUrl": "https://img.logo.dev/gasterra.nl?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 460,
+    "companyName": "Sumitomo Electric Industries",
+    "logoUrl": "https://img.logo.dev/global-sei.com/?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 461,
+    "companyName": "Duke Energy",
+    "logoUrl": "https://img.logo.dev/duke-energy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 462,
+    "companyName": "Heineken Holding",
+    "logoUrl": "https://img.logo.dev/heinekenholding.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 463,
+    "companyName": "HNA Group",
+    "logoUrl": "https://img.logo.dev/hnagroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 464,
+    "companyName": "Daiwa House Industry",
+    "logoUrl": "https://img.logo.dev/daiwahouse.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 465,
+    "companyName": "Old Mutual",
+    "logoUrl": "https://img.logo.dev/oldmutual.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 466,
+    "companyName": "AIA Group",
+    "logoUrl": "https://img.logo.dev/aia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 467,
+    "companyName": "BAE Systems",
+    "logoUrl": "https://img.logo.dev/baesystems.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 468,
+    "companyName": "TUI",
+    "logoUrl": "https://img.logo.dev/tui-group.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 469,
+    "companyName": "Sharp",
+    "logoUrl": "https://img.logo.dev/sharp.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 470,
+    "companyName": "Cathay Life Insurance",
+    "logoUrl": "https://img.logo.dev/cathaylife.com.tw?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 471,
+    "companyName": "Taiwan Semiconductor",
+    "logoUrl": "https://img.logo.dev/tsmc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 472,
+    "companyName": "LG Display",
+    "logoUrl": "https://img.logo.dev/lgdisplay.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 473,
+    "companyName": "Greenergy Fuels Holdings",
+    "logoUrl": "https://img.logo.dev/greenergy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 474,
+    "companyName": "CRH",
+    "logoUrl": "https://img.logo.dev/crh.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 475,
+    "companyName": "East Japan Railway",
+    "logoUrl": "https://img.logo.dev/jreast.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 476,
+    "companyName": "Zhejiang Geely Holding Group",
+    "logoUrl": "https://img.logo.dev/geely.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 477,
+    "companyName": "Gilead Sciences",
+    "logoUrl": "https://img.logo.dev/gilead.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 478,
+    "companyName": "Standard Chartered",
+    "logoUrl": "https://img.logo.dev/sc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 479,
+    "companyName": "Perusahaan Listrik Negara",
+    "logoUrl": "https://img.logo.dev/pln.co.id?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 480,
+    "companyName": "Telstra",
+    "logoUrl": "https://img.logo.dev/telstra.com.au?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 481,
+    "companyName": "Alstom",
+    "logoUrl": "https://img.logo.dev/alstom.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 482,
+    "companyName": "Baker Hughes",
+    "logoUrl": "https://img.logo.dev/bakerhughes.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 483,
+    "companyName": "Emerson Electric",
+    "logoUrl": "https://img.logo.dev/emerson.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 484,
+    "companyName": "Sodexo",
+    "logoUrl": "https://img.logo.dev/sodexo.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 485,
+    "companyName": "National Grid",
+    "logoUrl": "https://img.logo.dev/nationalgrid.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 486,
+    "companyName": "EMC",
+    "logoUrl": "https://img.logo.dev/emc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 487,
+    "companyName": "ZF Friedrichshafen",
+    "logoUrl": "https://img.logo.dev/zf.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 488,
+    "companyName": "Landesbank Baden-Württemberg",
+    "logoUrl": "https://img.logo.dev/lbbw.de?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 489,
+    "companyName": "Onex",
+    "logoUrl": "https://img.logo.dev/onex.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 490,
+    "companyName": "Vattenfall",
+    "logoUrl": "https://img.logo.dev/vattenfall.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 491,
+    "companyName": "United Services Auto. Assn.",
+    "logoUrl": "https://img.logo.dev/usaa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 492,
+    "companyName": "Union Pacific",
+    "logoUrl": "https://img.logo.dev/up.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 493,
+    "companyName": "Northrop Grumman",
+    "logoUrl": "https://img.logo.dev/northropgrumman.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 494,
+    "companyName": "Alcoa",
+    "logoUrl": "https://img.logo.dev/alcoa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 495,
+    "companyName": "Capital One Financial",
+    "logoUrl": "https://img.logo.dev/capitalone.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 496,
+    "companyName": "AntarChile",
+    "logoUrl": "https://img.logo.dev/antarchile.cl?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 497,
+    "companyName": "Rolls-Royce Holdings",
+    "logoUrl": "https://img.logo.dev/rolls-royce.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 498,
+    "companyName": "Cosmo Oil",
+    "logoUrl": "https://img.logo.dev/cosmo-oil.co.jp?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 499,
+    "companyName": "Wuhan Iron and Steel",
+    "logoUrl": "https://img.logo.dev/wisco.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 500,
+    "companyName": "Ikea",
+    "logoUrl": "https://img.logo.dev/ikea.com/?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 501,
+    "companyName": "Tesla",
+    "logoUrl": "https://img.logo.dev/tesla.com/?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 502,
+    "companyName": "Swiggy",
+    "logoUrl": "https://img.logo.dev/swiggy.com/?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 503,
+    "companyName": "Zomato",
+    "logoUrl": "https://img.logo.dev/zomato.com/?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 504,
+    "companyName": "Ola Electric Mobility",
+    "logoUrl": "https://img.logo.dev/olaelectric.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 505,
+    "companyName": "GTL Infrastructure",
+    "logoUrl": "https://img.logo.dev/gtlinfra.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 506,
+    "companyName": "Mazagon Dock Ship",
+    "logoUrl": "https://img.logo.dev/mazagondock.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 507,
+    "companyName": "Angel One",
+    "logoUrl": "https://img.logo.dev/angelone.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 508,
+    "companyName": "Divi's Labs",
+    "logoUrl": "https://img.logo.dev/divislabs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 509,
+    "companyName": "Varun Beverages",
+    "logoUrl": "https://img.logo.dev/varunbeverages.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 510,
+    "companyName": "Titan",
+    "logoUrl": "https://img.logo.dev/titan.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 511,
+    "companyName": "SBI Life Insurance",
+    "logoUrl": "https://img.logo.dev/sbilife.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 512,
+    "companyName": "Nykaa",
+    "logoUrl": "https://img.logo.dev/nykaa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 513,
+    "companyName": "Patanjali Foods",
+    "logoUrl": "https://img.logo.dev/patanjalifoods.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 514,
+    "companyName": "Bandhan Bank",
+    "logoUrl": "https://img.logo.dev/bandhanbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 515,
+    "companyName": "Alok Industries",
+    "logoUrl": "https://img.logo.dev/alokind.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 516,
+    "companyName": "PNB Housing Finance",
+    "logoUrl": "https://img.logo.dev/pnbhousing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 517,
+    "companyName": "Century Textiles",
+    "logoUrl": "https://img.logo.dev/centurytextiles.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 518,
+    "companyName": "Castrol India",
+    "logoUrl": "https://img.logo.dev/castrol.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 519,
+    "companyName": "Dwarikesh Sugar",
+    "logoUrl": "https://img.logo.dev/dwarikesh.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 520,
+    "companyName": "Geojit Financial Services",
+    "logoUrl": "https://img.logo.dev/geojit.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 521,
+    "companyName": "Adani",
+    "logoUrl": "https://img.logo.dev/adani.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 522,
+    "companyName": "Firstsource Soln",
+    "logoUrl": "https://img.logo.dev/firstsource.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 523,
+    "companyName": "SJVN",
+    "logoUrl": "https://img.logo.dev/sjvn.nic.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 524,
+    "companyName": "Cholamandalam Invest",
+    "logoUrl": "https://img.logo.dev/cholamandalam.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 525,
+    "companyName": "Cyient",
+    "logoUrl": "https://img.logo.dev/cyient.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 526,
+    "companyName": "Gland",
+    "logoUrl": "https://img.logo.dev/glandpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 527,
+    "companyName": "JWS Energy",
+    "logoUrl": "https://img.logo.dev/jsw.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 528,
+    "companyName": "Mahanagar Gas",
+    "logoUrl": "https://img.logo.dev/mahanagargas.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 529,
+    "companyName": "Saudi Aramco",
+    "logoUrl": "https://img.logo.dev/aramco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 530,
+    "companyName": "Commercial Bank of China",
+    "logoUrl": "https://img.logo.dev/icbc.com.cn?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 531,
+    "companyName": "Alphabet (Google)",
+    "logoUrl": "https://img.logo.dev/abc.xyz?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 532,
+    "companyName": "Toyota Motor",
+    "logoUrl": "https://img.logo.dev/toyota.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 533,
+    "companyName": "Volkswagen",
+    "logoUrl": "https://img.logo.dev/volkswagen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 534,
+    "companyName": "Alibaba Group",
+    "logoUrl": "https://img.logo.dev/alibaba.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 535,
+    "companyName": "Meta (Facebook)",
+    "logoUrl": "https://img.logo.dev/meta.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 536,
+    "companyName": "Facebook",
+    "logoUrl": "https://img.logo.dev/facebook.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 537,
+    "companyName": "TotalEnergies",
+    "logoUrl": "https://img.logo.dev/totalenergies.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 538,
+    "companyName": "Goldman Sachs",
+    "logoUrl": "https://img.logo.dev/goldmansachs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 539,
+    "companyName": "Sony",
+    "logoUrl": "https://img.logo.dev/sony.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 540,
+    "companyName": "Abbott Laboratories",
+    "logoUrl": "https://img.logo.dev/abbott.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 541,
+    "companyName": "Mercedes-Benz Group",
+    "logoUrl": "https://img.logo.dev/mercedes-benz.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 542,
+    "companyName": "Reliance Industries",
+    "logoUrl": "https://img.logo.dev/relianceindustries.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 543,
+    "companyName": "Tata Consultancy Services (TCS)",
+    "logoUrl": "https://img.logo.dev/tcs.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 544,
+    "companyName": "Infosys",
+    "logoUrl": "https://img.logo.dev/infosys.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 545,
+    "companyName": "HDFC Bank",
+    "logoUrl": "https://img.logo.dev/hdfcbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 546,
+    "companyName": "ICICI Bank",
+    "logoUrl": "https://img.logo.dev/icicibank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 547,
+    "companyName": "Bharti Airtel",
+    "logoUrl": "https://img.logo.dev/airtel.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 548,
+    "companyName": "Hindustan Unilever Limited (HUL)",
+    "logoUrl": "https://img.logo.dev/hul.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 549,
+    "companyName": "Wipro",
+    "logoUrl": "https://img.logo.dev/wipro.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 550,
+    "companyName": "Asian Paints",
+    "logoUrl": "https://img.logo.dev/asianpaints.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 551,
+    "companyName": "Larsen & Toubro (L&T)",
+    "logoUrl": "https://img.logo.dev/larsentoubro.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 552,
+    "companyName": "Kotak Mahindra Bank",
+    "logoUrl": "https://img.logo.dev/kotak.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 553,
+    "companyName": "Mahindra & Mahindra",
+    "logoUrl": "https://img.logo.dev/mahindra.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 554,
+    "companyName": "ITC Limited",
+    "logoUrl": "https://img.logo.dev/itcportal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 555,
+    "companyName": "Adani Enterprises",
+    "logoUrl": "https://img.logo.dev/adanienterprises.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 556,
+    "companyName": "Tata Steel",
+    "logoUrl": "https://img.logo.dev/tatasteel.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 557,
+    "companyName": "HCL Technologies",
+    "logoUrl": "https://img.logo.dev/hcltech.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 558,
+    "companyName": "Maruti Suzuki",
+    "logoUrl": "https://img.logo.dev/marutisuzuki.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 559,
+    "companyName": "Power Grid Corporation",
+    "logoUrl": "https://img.logo.dev/powergrid.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 560,
+    "companyName": "Bajaj Finance",
+    "logoUrl": "https://img.logo.dev/bajajfinserv.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 561,
+    "companyName": "Hero MotoCorp",
+    "logoUrl": "https://img.logo.dev/heromotocorp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 562,
+    "companyName": "Coal India",
+    "logoUrl": "https://img.logo.dev/coalindia.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 563,
+    "companyName": "Dr. Reddy's Laboratories",
+    "logoUrl": "https://img.logo.dev/drreddys.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 564,
+    "companyName": "Sun Pharmaceuticals",
+    "logoUrl": "https://img.logo.dev/sunpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 565,
+    "companyName": "IndusInd Bank",
+    "logoUrl": "https://img.logo.dev/indusind.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 566,
+    "companyName": "Axis Bank",
+    "logoUrl": "https://img.logo.dev/axisbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 567,
+    "companyName": "HDFC Life Insurance",
+    "logoUrl": "https://img.logo.dev/hdfclife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 568,
+    "companyName": "Tech Mahindra",
+    "logoUrl": "https://img.logo.dev/techmahindra.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 569,
+    "companyName": "UltraTech Cement",
+    "logoUrl": "https://img.logo.dev/ultratechcement.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 570,
+    "companyName": "NTPC Limited",
+    "logoUrl": "https://img.logo.dev/ntpc.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 571,
+    "companyName": "Bajaj Auto",
+    "logoUrl": "https://img.logo.dev/bajajauto.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 572,
+    "companyName": "Tata Power",
+    "logoUrl": "https://img.logo.dev/tatapower.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 573,
+    "companyName": "Britannia Industries",
+    "logoUrl": "https://img.logo.dev/britannia.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 574,
+    "companyName": "Zee Entertainment",
+    "logoUrl": "https://img.logo.dev/zeetelevision.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 575,
+    "companyName": "Havells India",
+    "logoUrl": "https://img.logo.dev/havells.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 576,
+    "companyName": "Dabur India",
+    "logoUrl": "https://img.logo.dev/dabur.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 577,
+    "companyName": "Grasim Industries",
+    "logoUrl": "https://img.logo.dev/grasim.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 578,
+    "companyName": "Adani Ports and SEZ",
+    "logoUrl": "https://img.logo.dev/adaniports.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 579,
+    "companyName": "Vedanta Limited",
+    "logoUrl": "https://img.logo.dev/vedantalimited.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 580,
+    "companyName": "GAIL (India)",
+    "logoUrl": "https://img.logo.dev/gailonline.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 581,
+    "companyName": "Titan name",
+    "logoUrl": "https://img.logo.dev/titanname.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 582,
+    "companyName": "Eicher Motors",
+    "logoUrl": "https://img.logo.dev/eichermotors.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 583,
+    "companyName": "Pidilite Industries",
+    "logoUrl": "https://img.logo.dev/pidilite.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 584,
+    "companyName": "Shree Cement",
+    "logoUrl": "https://img.logo.dev/shreecement.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 585,
+    "companyName": "Hindalco Industries",
+    "logoUrl": "https://img.logo.dev/hindalco.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 586,
+    "companyName": "Nestlé India",
+    "logoUrl": "https://img.logo.dev/nestle.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 587,
+    "companyName": "UPL Limited",
+    "logoUrl": "https://img.logo.dev/upl-ltd.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 588,
+    "companyName": "Godrej Consumer Products",
+    "logoUrl": "https://img.logo.dev/godrejcp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 589,
+    "companyName": "Cipla",
+    "logoUrl": "https://img.logo.dev/cipla.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 590,
+    "companyName": "Bosch India",
+    "logoUrl": "https://img.logo.dev/bosch.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 591,
+    "companyName": "Muthoot Finance",
+    "logoUrl": "https://img.logo.dev/muthootfinance.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 592,
+    "companyName": "Page Industries",
+    "logoUrl": "https://img.logo.dev/jockeyindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 593,
+    "companyName": "Siemens India",
+    "logoUrl": "https://img.logo.dev/siemens.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 594,
+    "companyName": "ICICI Prudential Life",
+    "logoUrl": "https://img.logo.dev/iciciprulife.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 595,
+    "companyName": "SRF Limited",
+    "logoUrl": "https://img.logo.dev/srf.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 596,
+    "companyName": "Mphasis",
+    "logoUrl": "https://img.logo.dev/mphasis.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 597,
+    "companyName": "Jubilant FoodWorks",
+    "logoUrl": "https://img.logo.dev/jubilantfoodworks.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 598,
+    "companyName": "Max Financial Services",
+    "logoUrl": "https://img.logo.dev/maxfinancialservices.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 599,
+    "companyName": "Tata Consumer Products",
+    "logoUrl": "https://img.logo.dev/tataconsumer.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 600,
+    "companyName": "Punjab National Bank (PNB)",
+    "logoUrl": "https://img.logo.dev/pnbindia.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 601,
+    "companyName": "Yes Bank",
+    "logoUrl": "https://img.logo.dev/yesbank.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 602,
+    "companyName": "GMR Infrastructure",
+    "logoUrl": "https://img.logo.dev/gmrgroup.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 603,
+    "companyName": "Lupin Pharmaceuticals",
+    "logoUrl": "https://img.logo.dev/lupin.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 604,
+    "companyName": "Bajaj Electricals",
+    "logoUrl": "https://img.logo.dev/bajajelectricals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 605,
+    "companyName": "Godrej Properties",
+    "logoUrl": "https://img.logo.dev/godrejproperties.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 606,
+    "companyName": "Apollo Hospitals",
+    "logoUrl": "https://img.logo.dev/apollohospitals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 607,
+    "companyName": "Balkrishna Industries",
+    "logoUrl": "https://img.logo.dev/bkt-tires.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 608,
+    "companyName": "Crompton Greaves",
+    "logoUrl": "https://img.logo.dev/crompton.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 609,
+    "companyName": "RBL Bank",
+    "logoUrl": "https://img.logo.dev/rblbank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 610,
+    "companyName": "Sundaram Finance",
+    "logoUrl": "https://img.logo.dev/sundaramfinance.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 611,
+    "companyName": "Voltas",
+    "logoUrl": "https://img.logo.dev/voltas.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 612,
+    "companyName": "Glenmark Pharmaceuticals",
+    "logoUrl": "https://img.logo.dev/glenmarkpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 613,
+    "companyName": "Ashok Leyland",
+    "logoUrl": "https://img.logo.dev/ashokleyland.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 614,
+    "companyName": "Bank of Baroda",
+    "logoUrl": "https://img.logo.dev/bankofbaroda.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 615,
+    "companyName": "Canara Bank",
+    "logoUrl": "https://img.logo.dev/canarabank.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 616,
+    "companyName": "Union Bank of India",
+    "logoUrl": "https://img.logo.dev/unionbankofindia.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 617,
+    "companyName": "Piramal Enterprises",
+    "logoUrl": "https://img.logo.dev/piramal.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 618,
+    "companyName": "Exide Industries",
+    "logoUrl": "https://img.logo.dev/exideindustries.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 619,
+    "companyName": "Mindtree",
+    "logoUrl": "https://img.logo.dev/mindtree.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 620,
+    "companyName": "Zydus Cadila",
+    "logoUrl": "https://img.logo.dev/zyduscadila.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 621,
+    "companyName": "LIC Housing Finance",
+    "logoUrl": "https://img.logo.dev/lichousing.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 622,
+    "companyName": "IDBI Bank",
+    "logoUrl": "https://img.logo.dev/idbi.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 623,
+    "companyName": "Indiabulls Housing Finance",
+    "logoUrl": "https://img.logo.dev/indiabullshomeloans.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 624,
+    "companyName": "Fortis Healthcare",
+    "logoUrl": "https://img.logo.dev/fortishealthcare.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 625,
+    "companyName": "Aurobindo Pharma",
+    "logoUrl": "https://img.logo.dev/aurobindo.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 626,
+    "companyName": "Phoenix Mills",
+    "logoUrl": "https://img.logo.dev/phoenixmills.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 627,
+    "companyName": "Adani Green Energy",
+    "logoUrl": "https://img.logo.dev/adanigreenenergy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 628,
+    "companyName": "Torrent Pharmaceuticals",
+    "logoUrl": "https://img.logo.dev/torrentpharma.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 629,
+    "companyName": "Tata Chemicals",
+    "logoUrl": "https://img.logo.dev/tatachemicals.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 630,
+    "companyName": "CESC Limited",
+    "logoUrl": "https://img.logo.dev/cesc.co.in?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 631,
+    "companyName": "Biocon",
+    "logoUrl": "https://img.logo.dev/biocon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 632,
+    "companyName": "NBCC (India)",
+    "logoUrl": "https://img.logo.dev/nbccindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 633,
+    "companyName": "Container Corporation of India",
+    "logoUrl": "https://img.logo.dev/concorindia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 634,
+    "companyName": "Visa Inc.",
+    "logoUrl": "https://img.logo.dev/visa.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 635,
+    "companyName": "NVIDIA Corporation",
+    "logoUrl": "https://img.logo.dev/nvidia.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 636,
+    "companyName": "AbbVie Inc.",
+    "logoUrl": "https://img.logo.dev/abbvie.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 637,
+    "companyName": "Coca-Cola name",
+    "logoUrl": "https://img.logo.dev/coca-cola.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 638,
+    "companyName": "Walt Disney name",
+    "logoUrl": "https://img.logo.dev/thewaltdisneyname.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 639,
+    "companyName": "Mastercard Incorporated",
+    "logoUrl": "https://img.logo.dev/mastercard.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 640,
+    "companyName": "Netflix, Inc.",
+    "logoUrl": "https://img.logo.dev/netflix.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 641,
+    "companyName": "Salesforce.com, Inc.",
     "logoUrl": "https://img.logo.dev/salesforce.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 214,
-    "companyName": "Lululemon Athletica ",
+    "id": 642,
+    "companyName": "Adobe Inc.",
+    "logoUrl": "https://img.logo.dev/adobe.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 643,
+    "companyName": "Starbucks Corporation",
+    "logoUrl": "https://img.logo.dev/starbucks.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 644,
+    "companyName": "Amgen Inc.",
+    "logoUrl": "https://img.logo.dev/amgen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 645,
+    "companyName": "Texas Instruments Incorporated",
+    "logoUrl": "https://img.logo.dev/ti.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 646,
+    "companyName": "Bristol-Myers Squibb name",
+    "logoUrl": "https://img.logo.dev/bms.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 647,
+    "companyName": "Charter Communications, Inc.",
+    "logoUrl": "https://img.logo.dev/charter.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 648,
+    "companyName": "American Tower Corporation",
+    "logoUrl": "https://img.logo.dev/americantower.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 649,
+    "companyName": "BlackRock, Inc.",
+    "logoUrl": "https://img.logo.dev/blackrock.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 650,
+    "companyName": "T-Mobile US, Inc.",
+    "logoUrl": "https://img.logo.dev/t-mobile.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 651,
+    "companyName": "Eli Lilly and name",
+    "logoUrl": "https://img.logo.dev/lilly.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 652,
+    "companyName": "Kraft Heinz name",
+    "logoUrl": "https://img.logo.dev/kraftheinzname.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 653,
+    "companyName": "Biogen Inc.",
+    "logoUrl": "https://img.logo.dev/biogen.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 654,
+    "companyName": "Booking Holdings Inc.",
+    "logoUrl": "https://img.logo.dev/bookingholdings.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 655,
+    "companyName": "Activision Blizzard, Inc.",
+    "logoUrl": "https://img.logo.dev/activisionblizzard.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 656,
+    "companyName": "Illumina, Inc.",
+    "logoUrl": "https://img.logo.dev/illumina.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
+  },
+  {
+    "id": 657,
+    "companyName": "Lululemon Athletica Inc.",
     "logoUrl": "https://img.logo.dev/lululemon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 215,
-    "companyName": "Pinterest",
+    "id": 658,
+    "companyName": "Pinterest, Inc.",
     "logoUrl": "https://img.logo.dev/pinterest.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 216,
-    "companyName": "Twilio",
+    "id": 659,
+    "companyName": "Twilio Inc.",
     "logoUrl": "https://img.logo.dev/twilio.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 217,
-    "companyName": "Square",
+    "id": 660,
+    "companyName": "Square, Inc. (Block, Inc.)",
     "logoUrl": "https://img.logo.dev/squareup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 218,
-    "companyName": "Snap",
+    "id": 661,
+    "companyName": "Snap Inc.",
     "logoUrl": "https://img.logo.dev/snap.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 219,
-    "companyName": "Yelp",
+    "id": 662,
+    "companyName": "Yelp Inc.",
     "logoUrl": "https://img.logo.dev/yelp.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 220,
-    "companyName": "Wayfair",
+    "id": 663,
+    "companyName": "Wayfair Inc.",
     "logoUrl": "https://img.logo.dev/wayfair.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 221,
-    "companyName": "Workda",
+    "id": 664,
+    "companyName": "Workday, Inc.",
     "logoUrl": "https://img.logo.dev/workday.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 222,
-    "companyName": "Zillow Grou",
+    "id": 665,
+    "companyName": "Zillow Group, Inc.",
     "logoUrl": "https://img.logo.dev/zillow.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 223,
-    "companyName": "DoorDas",
+    "id": 666,
+    "companyName": "DoorDash, Inc.",
     "logoUrl": "https://img.logo.dev/doordash.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 224,
-    "companyName": "Ets",
+    "id": 667,
+    "companyName": "Etsy, Inc.",
     "logoUrl": "https://img.logo.dev/etsy.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 225,
-    "companyName": "Dropbo",
+    "id": 668,
+    "companyName": "Dropbox, Inc.",
     "logoUrl": "https://img.logo.dev/dropbox.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 226,
-    "companyName": "Robinhood Market",
+    "id": 669,
+    "companyName": "Robinhood Markets, Inc.",
     "logoUrl": "https://img.logo.dev/robinhood.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 227,
+    "id": 670,
     "companyName": "NIO Inc.",
     "logoUrl": "https://img.logo.dev/nio.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 228,
+    "id": 671,
     "companyName": "Palantir Technologies Inc.",
     "logoUrl": "https://img.logo.dev/palantir.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 229,
-    "companyName": "Beyond Mea",
+    "id": 672,
+    "companyName": "Beyond Meat, Inc.",
     "logoUrl": "https://img.logo.dev/beyondmeat.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 230,
+    "id": 673,
     "companyName": "Snap-on Incorporated",
     "logoUrl": "https://img.logo.dev/snapon.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 231,
-    "companyName": "Veeva Systems",
+    "id": 674,
+    "companyName": "Veeva Systems Inc.",
     "logoUrl": "https://img.logo.dev/veeva.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 232,
-    "companyName": "Fiverr International Ltd",
+    "id": 675,
+    "companyName": "Fiverr International Ltd.",
     "logoUrl": "https://img.logo.dev/fiverr.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 233,
-    "companyName": "Nutanix",
+    "id": 676,
+    "companyName": "Nutanix, Inc.",
     "logoUrl": "https://img.logo.dev/nutanix.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 234,
-    "companyName": "RingCentral",
+    "id": 677,
+    "companyName": "RingCentral, Inc.",
     "logoUrl": "https://img.logo.dev/ringcentral.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 235,
-    "companyName": "Shopify ",
+    "id": 678,
+    "companyName": "Shopify Inc.",
     "logoUrl": "https://img.logo.dev/shopify.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 236,
-    "companyName": "Okta",
+    "id": 679,
+    "companyName": "Okta, Inc.",
     "logoUrl": "https://img.logo.dev/okta.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 237,
+    "id": 680,
     "companyName": "Sea Limited",
     "logoUrl": "https://img.logo.dev/seagroup.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 238,
-    "companyName": "CrowdStrike Holdings",
+    "id": 681,
+    "companyName": "CrowdStrike Holdings, Inc.",
     "logoUrl": "https://img.logo.dev/crowdstrike.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 239,
-    "companyName": "Teladoc Health",
+    "id": 682,
+    "companyName": "Teladoc Health, Inc.",
     "logoUrl": "https://img.logo.dev/teladoc.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 240,
-    "companyName": "C3.ai",
+    "id": 683,
+    "companyName": "C3.ai, Inc.",
     "logoUrl": "https://img.logo.dev/c3.ai?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 241,
-    "companyName": "Cloudflare",
+    "id": 684,
+    "companyName": "Cloudflare, Inc.",
     "logoUrl": "https://img.logo.dev/cloudflare.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 242,
-    "companyName": "Datadog",
+    "id": 685,
+    "companyName": "Datadog, Inc.",
     "logoUrl": "https://img.logo.dev/datadoghq.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 243,
-    "companyName": "Roku",
+    "id": 686,
+    "companyName": "Roku, Inc.",
     "logoUrl": "https://img.logo.dev/roku.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 244,
-    "companyName": "Snowflake",
+    "id": 687,
+    "companyName": "Snowflake Inc.",
     "logoUrl": "https://img.logo.dev/snowflake.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   },
   {
-    "id": 245,
-    "companyName": "Databricks",
+    "id": 688,
+    "companyName": "Databricks, Inc.",
     "logoUrl": "https://img.logo.dev/databricks.com?token=pk_eQ5iITCxQ_yUu4cy6NHPwQ"
   }
 ]

@@ -3,6 +3,8 @@ const fs = require('fs');
 const path = require('path');
 const companyNameLogo = require('../utils/companyNameLogo.json');
 
+const allStockData = require('../utils/AllStockDataHead.json');
+
 const allStockDataHeadController = (req, res) => {
     try {
 
@@ -23,20 +25,21 @@ const allStockDataHeadController = (req, res) => {
                 name,
                 logoUrl,
                 stockCost: `${faker.number.float({ min: 10, max: 2000, fractionDigits: 2 })}`,
-                stockCostPerRate: `${faker.number.float({ min: 0, max: 10, fractionDigits: 2 })} (${faker.number.float({ min: 0, max: 10, fractionDigits: 2 })}%)`,
+                stockCostPerRate: `${faker.number.float({ min: -10, max: 10, fractionDigits: 2 })} (${faker.number.float({ min: 0, max: 10, fractionDigits: 2 })}%)`,
             }
             dataArr.push(jsonData);
         }
 
-
+        console.log('all Sock data length before update ' , allStockData.length);
         const filePath = path.join(__dirname , '../utils', 'AllStockDataHead.json');
-
+        
         fs.writeFile(filePath, JSON.stringify(dataArr), (err) => {
             if (err) {
                 console.log('error in AllStockDataHead generate while creating file', err);
                 res.status(500).json({ msg: "error while save data in file" });
             } else {
                 console.log(`${companyNameLogo.length} AllStockDataHead generate and save`);
+                console.log('all Sock data length after update ' , companyNameLogo.length);
                 res.status(200).json({ msg: `${companyNameLogo.length} stock data generate successfully and save in file`, fileLocation: "utils/stockData.json" });
             }
         })
